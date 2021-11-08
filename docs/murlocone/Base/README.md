@@ -1,0 +1,216 @@
+sh# 基本功
+
+## 0. 基础思想
+- [横向和纵向思维的扩充](https://www.notion.so/wanliming/ef68d115d86040dda3b9c56459f170ce)
+## 1. Algo
+
+### 1.1 并查集
+- [婴儿名字](https://www.notion.so/wanliming/LeetCode-baby-names-lcci-b48b85d4759c4c9697670e99b5e59b49)
+
+
+### 1.2 滑动窗口
+- [字符串数据排列](https://www.notion.so/wanliming/567-07e476f882574bf099d2019d3e833107)
+- [11. 盛最多水的容器](https://www.notion.so/wanliming/LeetCode-11-63a691b8288c43b3b330da57de697e02)
+
+### 1.3 字符串
+- [罗马数字转整数](https://www.notion.so/wanliming/Leetcode-13-42a5575c8e82481b965ae0e084242af1
+- [最长公共前缀](https://www.notion.so/wanliming/LeetCode-14-57568359fa35497a9b02abfc41c9bd34)
+- [6. Z 字形变换](https://www.notion.so/wanliming/6-Z-257fe2c7f2074ce6bf901008b5c0f517)
+- [71. 简化路径](https://wanliming.notion.site/71-b6d28481302e48a6be35fa85336a3c2d)
+- [165. 比较版本号](https://wanliming.notion.site/165-e5f07fdd71314beab901654240972f95)
+- [392. 判断子序列](https://wanliming.notion.site/392-f77e6df47aa14a8f9e697862f01096dd)
+
+#### 基础操作
+- [58. 最后一个单词的长度](https://www.notion.so/wanliming/58-7e3f7424871c4815887a855280d47540)
+- [434. 字符串中的单词数](https://www.notion.so/wanliming/434-b779bf6c637c4c6185a5ef58d0093b60)
+
+### 1.4  双指针
+- [15. 三数之和](https://www.notion.so/wanliming/LeetCode-15-c83e89efd0e54657a3733088154b01cd)
+- [16. 最接近的三数之和](https://www.notion.so/wanliming/16-92363d28f4424b1799500af162f8f843)
+
+- [1438. 绝对差不超过限制的最长连续子数组](https://www.notion.so/wanliming/1438-28e8cb945bd84e28a09fbd2621c8f7cd)
+- [633. 平方数之和](https://www.notion.so/wanliming/633-9686aa66880a4db990104ca8fc413569)
+- [167. 两数之和 II - 输入有序数组](https://www.notion.so/wanliming/55e3de160aa34222a124ab963fcba4d4)
+
+### 1.5 快慢指针
+- [19. 删除链表的倒数第 N 个结点](https://www.notion.so/wanliming/LeetCode-19-N-21ad120986854979995200ed3e00c2eb)
+- [202. 快乐数](https://www.notion.so/wanliming/202-96d469f50ee44739907add4de1cfee23)
+- [206. 反转链表](https://wanliming.notion.site/206-0b3278d724b842fda13c344b1f9c727c)
+
+### 1.6 数组
+- [766. 托普利茨矩阵](https://www.notion.so/wanliming/LeetCode-766-85a787bdaf734ae5862867f13c4aeb54)
+- [17. 电话号码的字母组合](https://www.notion.so/wanliming/17-a2d3949e3a0b4f15853395f6604d02dd)
+- [54. 螺旋矩阵](https://www.notion.so/wanliming/54-3be1a6cfb71647079bc86e9398261f96)
+- [59. 螺旋矩阵 II](https://www.notion.so/wanliming/59-II-62d83f9387c34a8b9f2856cd6f34f9fa)
+- [26. 删除有序数组中的重复项](https://www.notion.so/wanliming/26-b8d9ae573265495b854eccfb72fc589d)
+- [154. 寻找旋转排序数组中的最小值 II](https://www.notion.so/wanliming/154-II-765df6e40e574f618598dc67a54aa434)
+- [47. 全排列 II](https://wanliming.notion.site/47-II-ba19be633d1e4dc1b52986f0eb4fc2e9)
+
+- [896. 单调数列](https://www.notion.so/wanliming/896-28a01bd5d88141ce9ae31c99edb16348)
+
+- [304. 二维区域和检索 - 矩阵不可变](https://www.notion.so/wanliming/304-68c1e9edf0bf433592b1d48a05aabc6c)
+- [766. 托普利茨矩阵](https://www.notion.so/wanliming/73-d9e4b12ac48f4ecc9fe96a7c92424cc8)
+- [74. 搜索二维矩阵](https://www.notion.so/wanliming/74-f24a6a0994cd4e44b87c113022a9734d)
+- [88. 合并两个有序数组](https://www.notion.so/wanliming/88-f08a332bb04945f0bb386be2b7a38d77)
+- [80. 删除有序数组中的重复项 II](https://www.notion.so/wanliming/80-II-311cbc07a91c42fbb7221d9fb7685c7e)
+- [81. 搜索旋转排序数组 II](https://www.notion.so/wanliming/81-II-b3e387f3f9394460a4471d09d04754ba)
+- [179. 最大数](https://www.notion.so/wanliming/179-5098c508d68b48fb8c8ac52884a82dcf)
+- [152. 乘积最大子数组](https://www.notion.so/wanliming/152-a783c21575ee4e4e9cca3c0bbb1faed6)
+- [27. 移除元素](https://www.notion.so/wanliming/27-7df122cd822a436d8e1bce72cbef5cd4)
+- [1011. 在 D 天内送达包裹的能力](https://www.notion.so/wanliming/1011-D-1a134eda77bc4e1abd4a0e6aacf843ab)
+- [1035. 不相交的线](https://www.notion.so/wanliming/1035-e571f2e0c6414dfaabd182db52bb757f)
+- [35. 搜索插入位置](https://www.notion.so/wanliming/35-dfe5742663e54199a4751d86039f0663)
+- [53. 最大子序和](https://www.notion.so/wanliming/53-e4986f9efc9a41bc85954d80a0e04c38)
+- [125. 验证回文串](https://www.notion.so/wanliming/125-41276924f83449629a62472096424368)
+- [523. 连续的子数组和](https://www.notion.so/wanliming/523-738f8bef1eb74372ab7a62da00f41d96)
+- [852. 山脉数组的峰顶索引](https://www.notion.so/wanliming/852-9d450feddf1140f499505c1b2e318fc2)
+- [217. 存在重复元素](https://www.notion.so/wanliming/217-fc977eaf6849494092e52bac63247f8b)
+- [136. 只出现一次的数字](https://www.notion.so/wanliming/136-85c87ad9d07e4487818a7b6d48b7f87f)
+- [1287. 有序数组中出现次数超过25%的元素](https://www.notion.so/wanliming/1287-25-ba1a4dce7e7540c7a5f66f190bc3a6fc)
+- [283. 移动零](https://www.notion.so/wanliming/283-b4b2c3a8f66748e1a1befb7e088c6d4f)
+- [66. 加一](https://www.notion.so/wanliming/66-5fbc2349fed34b45a0a004a07ca37da3)
+- [169. 多数元素](https://www.notion.so/wanliming/169-1c663075cb2b4c71b7eccb8906cae373)
+- [389. 找不同](https://www.notion.so/wanliming/389-79c12da115014c6080233f62bbb48597)
+- [344. 反转字符串](https://www.notion.so/wanliming/344-2b24b7a234e14835b545055f2379aa76)
+- [219. 存在重复元素 II](https://www.notion.so/wanliming/219-II-a34f69881b8a4e61b956a4fe275fc355)
+- [374. 猜数字大小](https://www.notion.so/wanliming/374-7f1c60ecdf514865a557b31f8e11f295)
+- [645. 错误的集合](https://www.notion.so/wanliming/645-891854edd4884b158b6c3617445abf1a)
+- [868. 二进制间距](https://www.notion.so/wanliming/868-b4dc340f3bd948cf86e20027abdeef09)
+- [46. 全排列](https://www.notion.so/wanliming/46-d97900beef7a42d48b5ca6549f0877d2)
+- [859. 亲密字符串](https://www.notion.so/wanliming/859-ccaee4b45afe418db3bbb434d71c1e1a)
+- [39. 组合总和](https://www.notion.so/wanliming/39-b577d0a0317842b5badaedb372339eb9)
+- [33. 搜索旋转排序数组](https://www.notion.so/wanliming/33-8917aa280b674607af8328fb709f06a0)
+- [56. 合并区间](https://www.notion.so/wanliming/56-f6c310f69db04e1fafed67bbbaf2c479)
+- [18. 四数之和](https://www.notion.so/wanliming/18-545a69601acd47f58c661eace44aba41)
+- [48. 旋转图像](https://www.notion.so/wanliming/48-041344102c3c4b83b9029eb39e9bec21)
+- [78. 子集](https://www.notion.so/wanliming/78-f4b14cd7d76f4fa8a860d9a11875d840)
+- [57. 插入区间](https://www.notion.so/wanliming/57-9332444e014c46e2ad6c5557b027e9eb)
+- [75. 颜色分类](https://wanliming.notion.site/75-62278c73caec4f3b87a15dc7abee829d)
+- [34. 在排序数组中查找元素的第一个和最后一个位置](https://wanliming.notion.site/34-9a7d276961854d70967303a369738fd5)
+- [79. 单词搜索](https://wanliming.notion.site/79-3a3d1bacc22d4a01bc8cb421dc48df97)
+- [89. 格雷编码](https://wanliming.notion.site/89-db2febf3c11b48c38729410bbb355ebb)
+- [63. 不同路径 II](https://wanliming.notion.site/63-II-b60e7447ed6448a79b4b0b696a43ed7a)
+- [162. 寻找峰值](https://wanliming.notion.site/162-389915c3ae4643a68be736e393f381d3)
+- [209. 长度最小的子数组](https://wanliming.notion.site/209-133d01268010464b8fe841667438d532)
+- [223. 矩形面积](https://wanliming.notion.site/223-4793fd7a2d6e4d909c496f6a947dcb08)
+- [215. 数组中的第K个最大元素](https://wanliming.notion.site/215-K-76120b59902b4b58ac04407e6ee13105)
+- [216. 组合总和 III](https://wanliming.notion.site/216-III-abae76ecf5fb460f9ca603d5bcd52ffe)
+- [238. 除自身以外数组的乘积](https://wanliming.notion.site/238-ca1634a92d834559afa108f437d17ee0)
+- [400. 第 N 位数字](https://wbs1ca806i.feishu.cn/docs/doccnzvDwdZ9tIXxotc8K7DrHAe)
+- [860. 柠檬水找零](https://wanliming.notion.site/860-3d370eda4f094ec1a519811a750bc915)
+- [575. 分糖果](https://wanliming.notion.site/575-a93e531094e94f54a42e671d5317e63a)
+
+### [组合](https://www.notion.so/wanliming/089f944b171d44bfb1f49078936e6138)
+- [1239. 串联字符串的最大长度](https://www.notion.so/wanliming/1239-320fbc00747f417b93863010fabc4592)
+- [90. 子集 II](https://www.notion.so/wanliming/90-II-4c7233380e1b4ec49190d0e53fe7e58b)
+- [22. 括号生成](https://www.notion.so/wanliming/22-69cace6d3db940998c29353883d644e0)
+- [38. 外观数列](https://www.notion.so/wanliming/29-f542275001f34056ab25cb5e8e904d46)
+- [77. 组合](https://www.notion.so/wanliming/77-f146fe80cbf64bcb894c6f47a4c82443)
+
+#### [杨辉三角形](https://www.notion.so/wanliming/e9bf96ae618b4adeac3d825049967a32)
+- [118. 杨辉三角](https://www.notion.so/wanliming/118-09ea4337474144d58000bb5af42a0f9a)
+- [119. 杨辉三角 II](https://www.notion.so/wanliming/119-II-0259bcb6bd2343a5a9191427cfaea828)
+
+
+### 1.7 字符串
+- [395. 至少有 K 个重复字符的最长子串](https://www.notion.so/wanliming/395-K-2d668ae6c90246ffb5c5ad0c62e1e8ce)
+- [1047. 删除字符串中的所有相邻重复项](https://www.notion.so/wanliming/1047-70c46f65464847fd91ee86755b0574d6)
+- [43. 字符串相乘](https://www.notion.so/wanliming/43-dd5877bdcaa54b02839ce181450e4c5c)
+- [91. 解码方法](https://wanliming.notion.site/91-573e9e2c225342ccb484672a6a00d14e)
+- [205. 同构字符串](https://wanliming.notion.site/205-fcb7be9f730d409d8414b2451c2ce1bc)
+
+### 1.8 Stack Queue
+- [232. 用栈实现队列](https://www.notion.so/wanliming/232-7aa4dfb10d814ea7819fa5ed07e87a4d)
+
+### 1.9 动态规划
+- [354. 俄罗斯套娃信封问题](https://www.notion.so/wanliming/354-804b60f0756f4ee5ae840326caadd804)
+- [1143. 最长公共子序列](https://www.notion.so/wanliming/1143-153da159af5d4861997752aa1d06fb31)
+- [264. 丑数 II](https://www.notion.so/wanliming/264-II-599852c8c10f4f438ec9718a8483ff8f)
+- [213. 打家劫舍 II](https://www.notion.so/wanliming/213-II-cd4639f8528b49f19178dffd623f0085)
+- [368. 最大整除子集](https://www.notion.so/wanliming/368-62daa6c2942c48248019ccdad0fa846d)
+- [740. 删除并获得点数](https://www.notion.so/wanliming/740-87150702b3b74a91a782a09d7b0ceab6)
+- [121. 买卖股票的最佳时机](https://www.notion.so/wanliming/121-df86340ba76e42e9843f106f805336f3)
+- [70. 爬楼梯](https://www.notion.so/wanliming/70-5c163af1322f4eb48142a90da3968a3e)
+- [122. 买卖股票的最佳时机 II](https://www.notion.so/wanliming/122-II-31cffed2c51a4f8196bbb6fb40bb0752)
+- [64. 最小路径和](https://www.notion.so/wanliming/64-4c8814cbc0d74ed685fe1e8a8d2beea7)
+- [1137. 第 N 个泰波那契数](https://wanliming.notion.site/1137-N-299424477ab947ef94b99b1b30a684fc)
+
+### 1.10 栈
+- [20. 有效的括号](https://www.notion.so/wanliming/20-9aa3aba274894e94ada9a247ea662a41)
+- [331. 验证二叉树的前序序列化](https://www.notion.so/wanliming/331-650b79b73abe4afc80a5ea7e8ffb95b5)
+- [150. 逆波兰表达式求值](https://www.notion.so/wanliming/150-58f7cd63df8f453c9e304bf3aa3fac8f)
+
+### 1.11 链表
+- [21. 合并两个有序链表](https://www.notion.so/wanliming/21-699bfaf04b004736abcfec57b19ffc71)
+- [82. 删除排序链表中的重复元素 II](https://www.notion.so/wanliming/82-II-8fa4ea563ba34872ab844615b399632a)
+- [83. 删除排序链表中的重复元素](https://www.notion.so/wanliming/83-af02ad1af5054eb683ea917133f286ce)
+- [141. 环形链表](https://www.notion.so/wanliming/141-294f52600dbf467db406234ff3539cc9)
+- [203. 移除链表元素](https://www.notion.so/wanliming/203-43fdb2beacd647d1876f5b6166449d5c)
+- [237. 删除链表中的节点](https://www.notion.so/wanliming/237-d99aab2637a24cbb9aec12d8ae496153)
+- [160. 相交链表](https://www.notion.so/wanliming/d1819b96b7ba42dd91017c2102e6b633)
+- [86. 分隔链表](https://www.notion.so/wanliming/86-61cfe081772b4f30bf31c299b480177f)
+- [24. 两两交换链表中的节点](https://www.notion.so/wanliming/24-d43e44069ad84997a886714520f7c389)
+- [92. 反转链表 II](https://wanliming.notion.site/92-II-0b6baea50d104dc899bc1c2921bc2ec7)
+- [328. 奇偶链表](https://wanliming.notion.site/328-0d07c86c5b714dd2b37675635f30a597)
+
+### 1.12 bit
+- [191. 位1的个数](https://www.notion.so/wanliming/191-1-82849202b06c4eac91d1a54d4fd2e5f3)
+- [190. 颠倒二进制位](https://www.notion.so/wanliming/190-ab52abce125a473ebf9006a6d6d327e8)
+- [1006. 笨阶乘](https://www.notion.so/wanliming/1006-cf2926780f18481682071a0eec8f8f1b)
+- [1720. 解码异或后的数组](https://www.notion.so/wanliming/1720-ffa31c90ca84438fa90662480928bf07)
+- [1734. 解码异或后的排列](https://www.notion.so/wanliming/1734-d19006f9f2e74d229f2b66ffd387ddda)
+- [67.二进制求和](https://www.notion.so/wanliming/67-2d467d02835d45a4a2f2a126a0a2eae6)
+- [168. Excel表列名称](https://www.notion.so/wanliming/168-Excel-c0bc55bbaa0748ada3a99df06507c0c5)
+- [171. Excel表列序号](https://www.notion.so/wanliming/171-Excel-cc3b9b0978df4e919c83c4d570acaabc)
+- [405. 数字转换为十六进制数](https://www.notion.so/wanliming/405-e729bc26075940d8b9d0551836e88763)
+- [29. 两数相除](https://www.notion.so/wanliming/29-f542275001f34056ab25cb5e8e904d46)
+
+### 1.13 树
+#### 树的基础操作
+- [145. 二叉树的后序遍历](https://www.notion.so/wanliming/145-a6c7fd696b81481cb76fdf14cbfdb931)
+
+- [173. 二叉搜索树迭代器](https://www.notion.so/wanliming/173-2a6f66971cc4481386e323e52426f8d4)
+- [783. 二叉搜索树节点最小距离](https://www.notion.so/wanliming/783-08b67699279e441db5b911bfbe1207fd)
+- [897. 递增顺序搜索树](https://www.notion.so/wanliming/897-bc97b2fd62664bac9377174ecd8c1a57)
+- [938. 二叉搜索树的范围和](https://www.notion.so/wanliming/938-a8c3d213153b4c54a6a34d800a48fa5e)
+- [872. 叶子相似的树](https://www.notion.so/wanliming/872-59d55e9bd6dc414e9fa416b4d9708c92)
+- [993. 二叉树的堂兄弟节点](https://www.notion.so/wanliming/993-46ea9298381c4511adad809a38c451b6)
+
+### 1.14 链表
+
+## 2. Design
+### 2.1 设计字典
+ - [705. 设计哈希集合](https://www.notion.so/wanliming/705-f8043f3ea0bc412b818c9287c01b8552)
+### 2.2 设计停车系统
+- [1603. 设计停车系统](https://www.notion.so/wanliming/1603-00b5626ea4fc4f65b75864dfa146b0ca)
+### 2.3 设计遍历
+- [341. 扁平化嵌套列表迭代器](https://www.notion.so/wanliming/341-b205320cc13740c68d1e33529f7e3bf1)
+- [208. 实现 Trie (前缀树)](https://www.notion.so/wanliming/208-Trie-59c4cfcb9858464c846dbbf0729407f1)
+- [690. 员工的重要性](https://www.notion.so/wanliming/690-8a21dca1b72b48c1869efd4da796a618)
+### 2.4 最小栈
+- [155. 最小栈](https://www.notion.so/wanliming/155-c8c1267553e84abe9d15ede81276e57a)
+
+
+## 3. 效率
+### 3.1 绩效计算脚本
+- [绩效的计算脚本](https://www.notion.so/wanliming/913dc059eefd46009f81f85629189e65)
+
+
+## 4. Math
+- [面试题 17.21. 直方图的水量](https://www.notion.so/wanliming/17-21-9af18160d96e4878a0240002e6e918ce)
+- [781. 森林中的兔子](https://www.notion.so/wanliming/781-ba51a9271a7940e6bba14a07da5d496e)
+- [263. 丑数](https://www.notion.so/wanliming/263-dbf10720d8bf45c98ae809c83335ec46)
+- [1486. 数组异或操作](https://www.notion.so/wanliming/1486-215109689cb24431bbda89425dc91459)
+- [461. 汉明距离](https://www.notion.so/wanliming/461-44020cf22e1949d48b3f2c4861cc3730)
+- [231. 2 的幂](https://www.notion.so/wanliming/231-2-db1f6b1777ee4d4a967d999079540c81)
+- [342. 4的幂](https://www.notion.so/wanliming/342-4-e271c85c5579485eac35f214ce5863d6)
+- [剑指 Offer 15. 二进制中1的个数](https://www.notion.so/wanliming/Offer-15-1-9f3a94518d48456ca48395e876812d75)
+- [69. x 的平方根](https://www.notion.so/wanliming/69-x-873962ea67c847e69de2a7a7024fece7)
+- [172. 阶乘后的零](https://www.notion.so/wanliming/172-5bf05c89eca3437fb91ec437c134c82f)
+- [258. 各位相加](https://www.notion.so/wanliming/258-cefb8edb4f964306930c9e176470606b)
+- [8. 字符串转换整数 (atoi)](https://www.notion.so/wanliming/8-atoi-b1e2b6364bc540a6a729272876557ed1)
+- [50. Pow(x, n)](https://wanliming.notion.site/50-Pow-x-n-342daf136cb84d4497d97e642eaa78ff)
+
+## 5. GrowUp
+### 5.1 
+- [时间的尽头](https://www.notion.so/wanliming/23ead907c0234a7dbab3240a4f27fbea)
