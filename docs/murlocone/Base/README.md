@@ -134,6 +134,7 @@ sh# 基本功
 - [122. 买卖股票的最佳时机 II](https://www.notion.so/wanliming/122-II-31cffed2c51a4f8196bbb6fb40bb0752)
 - [64. 最小路径和](https://www.notion.so/wanliming/64-4c8814cbc0d74ed685fe1e8a8d2beea7)
 - [1137. 第 N 个泰波那契数](https://wanliming.notion.site/1137-N-299424477ab947ef94b99b1b30a684fc)
+- [1646. 获取生成数组中的最大值](https://wanliming.notion.site/1646-4ed27532522948e195e1159559e12289)
 
 ### 1.10 栈
 - [20. 有效的括号](https://www.notion.so/wanliming/20-9aa3aba274894e94ada9a247ea662a41)
