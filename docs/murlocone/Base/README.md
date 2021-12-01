@@ -19,6 +19,7 @@
 - [71. 简化路径](https://wanliming.notion.site/71-b6d28481302e48a6be35fa85336a3c2d)
 - [165. 比较版本号](https://wanliming.notion.site/165-e5f07fdd71314beab901654240972f95)
 - [392. 判断子序列](https://wanliming.notion.site/392-f77e6df47aa14a8f9e697862f01096dd)
+- [1446. 连续字符](https://wanliming.notion.site/1446-673bf4167dd8439f8942bb961affbf3a)
 
 #### 基础操作
 - [58. 最后一个单词的长度](https://www.notion.so/wanliming/58-7e3f7424871c4815887a855280d47540)
