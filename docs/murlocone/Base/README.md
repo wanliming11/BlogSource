@@ -101,6 +101,7 @@
 - [860. 柠檬水找零](https://wanliming.notion.site/860-3d370eda4f094ec1a519811a750bc915)
 - [575. 分糖果](https://wanliming.notion.site/575-a93e531094e94f54a42e671d5317e63a)
 - [944. 删列造序](https://wanliming.notion.site/944-9ffd07816b354de6b0a699ec8dfb169e)
+- [506. 相对名次](https://wanliming.notion.site/506-525fcd615ad4477386da077438f387bf)
 
 ### [组合](https://www.notion.so/wanliming/089f944b171d44bfb1f49078936e6138)
 - [1239. 串联字符串的最大长度](https://www.notion.so/wanliming/1239-320fbc00747f417b93863010fabc4592)
