@@ -121,6 +121,7 @@
 - [43. 字符串相乘](https://www.notion.so/wanliming/43-dd5877bdcaa54b02839ce181450e4c5c)
 - [91. 解码方法](https://wanliming.notion.site/91-573e9e2c225342ccb484672a6a00d14e)
 - [205. 同构字符串](https://wanliming.notion.site/205-fcb7be9f730d409d8414b2451c2ce1bc)
+- [383. 赎金信](https://wanliming.notion.site/383-6abb5b8185154e17b93e122af31d63f8)
 
 ### 1.8 Stack Queue
 - [232. 用栈实现队列](https://www.notion.so/wanliming/232-7aa4dfb10d814ea7819fa5ed07e87a4d)
