@@ -141,6 +141,7 @@
 - [1137. 第 N 个泰波那契数](https://wanliming.notion.site/1137-N-299424477ab947ef94b99b1b30a684fc)
 - [1646. 获取生成数组中的最大值](https://wanliming.notion.site/1646-4ed27532522948e195e1159559e12289)
 - [LCS 01. 下载插件](https://wanliming.notion.site/LCS-01-2c640a6aa3094545b53cfc2e9ff5bac3)
+- [LCP 07. 传递信息](https://wanliming.notion.site/LCP-07-675f4b88156147b6b122ef62ce3e9951)
 
 ### 1.10 栈
 - [20. 有效的括号](https://www.notion.so/wanliming/20-9aa3aba274894e94ada9a247ea662a41)
