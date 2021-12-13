@@ -21,6 +21,7 @@
 - [392. 判断子序列](https://wanliming.notion.site/392-f77e6df47aa14a8f9e697862f01096dd)
 - [1446. 连续字符](https://wanliming.notion.site/1446-673bf4167dd8439f8942bb961affbf3a)
 - [1002. 查找共用字符](https://wanliming.notion.site/1002-b87f4bf8be0f414d902a62c224ca45ce)
+- [1021. 删除最外层的括号](https://wanliming.notion.site/1021-19e8b7f82a784fe39a5fac0da77ab0af)
 
 #### 基础操作
 - [58. 最后一个单词的长度](https://www.notion.so/wanliming/58-7e3f7424871c4815887a855280d47540)
