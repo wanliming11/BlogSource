@@ -177,6 +177,7 @@
 - [171. Excel表列序号](https://www.notion.so/wanliming/171-Excel-cc3b9b0978df4e919c83c4d570acaabc)
 - [405. 数字转换为十六进制数](https://www.notion.so/wanliming/405-e729bc26075940d8b9d0551836e88763)
 - [29. 两数相除](https://www.notion.so/wanliming/29-f542275001f34056ab25cb5e8e904d46)
+- [1009. 十进制整数的反码](https://wanliming.notion.site/1009-2d60a1c6cb1d4403864607a143ab40ae)
 
 ### 1.13 树
 #### 树的基础操作
