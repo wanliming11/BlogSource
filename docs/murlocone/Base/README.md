@@ -109,6 +109,9 @@
 - [1184. 公交站间的距离](https://wanliming.notion.site/1184-4aa811be479b4ed6b01395c117b63f60)
 - [1304. 和为零的N个唯一整数](https://wanliming.notion.site/1304-N-7d53a66b841f4ee6a428fb7ea145df62)
 
+### 【数学】
+- [1323. 6 和 9 组成的最大数字](https://wanliming.notion.site/1323-6-9-6416f498294b457fa34c93eaf19d2acf)
+
 ### [组合](https://www.notion.so/wanliming/089f944b171d44bfb1f49078936e6138)
 - [1239. 串联字符串的最大长度](https://www.notion.so/wanliming/1239-320fbc00747f417b93863010fabc4592)
 - [90. 子集 II](https://www.notion.so/wanliming/90-II-4c7233380e1b4ec49190d0e53fe7e58b)
