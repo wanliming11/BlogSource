@@ -35,6 +35,7 @@
 - [633. 平方数之和](https://www.notion.so/wanliming/633-9686aa66880a4db990104ca8fc413569)
 - [167. 两数之和 II - 输入有序数组](https://www.notion.so/wanliming/55e3de160aa34222a124ab963fcba4d4)
 - [228. 汇总区间](https://wanliming.notion.site/228-74a83d5943484fc3a002a83070a86be5)
+- [905. 按奇偶排序数组](https://wanliming.notion.site/905-2283a8f01ef44f53b21cb1525c67aac8)
 
 ### 1.5 快慢指针
 - [19. 删除链表的倒数第 N 个结点](https://www.notion.so/wanliming/LeetCode-19-N-21ad120986854979995200ed3e00c2eb)
