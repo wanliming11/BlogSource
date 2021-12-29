@@ -111,6 +111,7 @@
 - [1304. 和为零的N个唯一整数](https://wanliming.notion.site/1304-N-7d53a66b841f4ee6a428fb7ea145df62)
 - [1122. 数组的相对排序](https://wanliming.notion.site/1122-ef411d5d73f2412586f9ad6a01c2d96e)
 - [680. 验证回文字符串 Ⅱ](https://wanliming.notion.site/680-437-e0e80465383b43f09816a5512d047e44)
+- [908. 最小差值 I](https://wanliming.notion.site/908-I-b8e230c9e40a4a119b972dcc03f7ff79)
 
 ### 【数学】
 - [1323. 6 和 9 组成的最大数字](https://wanliming.notion.site/1323-6-9-6416f498294b457fa34c93eaf19d2acf)
