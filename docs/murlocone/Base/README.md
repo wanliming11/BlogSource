@@ -174,6 +174,7 @@
 - [92. 反转链表 II](https://wanliming.notion.site/92-II-0b6baea50d104dc899bc1c2921bc2ec7)
 - [328. 奇偶链表](https://wanliming.notion.site/328-0d07c86c5b714dd2b37675635f30a597)
 - [876. 链表的中间结点](https://wanliming.notion.site/876-db8108ad45814ba897f2276230e259b2)
+- [1290. 二进制链表转整数](https://wanliming.notion.site/1290-5c17f8da58b840d2b3e7f59c844758e1)
 
 ### 1.12 bit
 - [191. 位1的个数](https://www.notion.so/wanliming/191-1-82849202b06c4eac91d1a54d4fd2e5f3)
