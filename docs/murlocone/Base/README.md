@@ -113,6 +113,7 @@
 - [680. 验证回文字符串 Ⅱ](https://wanliming.notion.site/680-437-e0e80465383b43f09816a5512d047e44)
 - [908. 最小差值 I](https://wanliming.notion.site/908-I-b8e230c9e40a4a119b972dcc03f7ff79)
 - [976. 三角形的最大周长](https://wanliming.notion.site/976-7e769ff630094553a38bf3e9d56bcacd)
+- [977. 有序数组的平方](https://wanliming.notion.site/977-3b48f8f273964e9893b1e67007aa4fbd)
 
 ### 【数学】
 - [1323. 6 和 9 组成的最大数字](https://wanliming.notion.site/1323-6-9-6416f498294b457fa34c93eaf19d2acf)
