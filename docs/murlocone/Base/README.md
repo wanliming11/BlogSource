@@ -50,6 +50,7 @@
 - [26. 删除有序数组中的重复项](https://www.notion.so/wanliming/26-b8d9ae573265495b854eccfb72fc589d)
 - [154. 寻找旋转排序数组中的最小值 II](https://www.notion.so/wanliming/154-II-765df6e40e574f618598dc67a54aa434)
 - [47. 全排列 II](https://wanliming.notion.site/47-II-ba19be633d1e4dc1b52986f0eb4fc2e9)
+- [1929. 数组串联](https://wanliming.notion.site/1929-480d867b06044d17b711aabba41cd4bb)
 
 - [896. 单调数列](https://www.notion.so/wanliming/896-28a01bd5d88141ce9ae31c99edb16348)
 
