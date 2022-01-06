@@ -22,6 +22,7 @@
 - [1446. 连续字符](https://wanliming.notion.site/1446-673bf4167dd8439f8942bb961affbf3a)
 - [1002. 查找共用字符](https://wanliming.notion.site/1002-b87f4bf8be0f414d902a62c224ca45ce)
 - [1021. 删除最外层的括号](https://wanliming.notion.site/1021-19e8b7f82a784fe39a5fac0da77ab0af)
+- [2042. 检查句子中的数字是否递增](https://wanliming.notion.site/2042-6625f0c622d54e62b861c88d43f89f02)
 
 #### 基础操作
 - [58. 最后一个单词的长度](https://www.notion.so/wanliming/58-7e3f7424871c4815887a855280d47540)
