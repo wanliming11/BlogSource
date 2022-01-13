@@ -25,6 +25,7 @@
 - [2042. 检查句子中的数字是否递增](https://wanliming.notion.site/2042-6625f0c622d54e62b861c88d43f89f02)
 - [1614. 括号的最大嵌套深度](https://wanliming.notion.site/1614-0f75592133a84e77b33b69b82338c276)
 - [1221. 分割平衡字符串](https://wanliming.notion.site/1221-7de2f2884e8a4bcdb360a46c4c235da7)
+- [1160. 拼写单词](https://wanliming.notion.site/1160-2c7f21837eae45728f2f735b962e1d4c)
 
 #### 基础操作
 - [58. 最后一个单词的长度](https://www.notion.so/wanliming/58-7e3f7424871c4815887a855280d47540)
