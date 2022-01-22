@@ -60,6 +60,7 @@
 - [1313. 解压缩编码列表](https://wanliming.notion.site/1313-5401174137b04c97a7f6148e764a0dad)
 - [1200. 最小绝对差](https://wanliming.notion.site/1200-b69f6e9caaab4cde80d421d0f5ba47c7)
 - [LCP 01. 猜数字](https://wanliming.notion.site/LCP-01-5c663bd6e8334825bf410bedd3482c69)
+- [1332. 删除回文子序列](https://wanliming.notion.site/1332-1ea39c34685b4521abfa9da091a01053)
 
 - [896. 单调数列](https://www.notion.so/wanliming/896-28a01bd5d88141ce9ae31c99edb16348)
 
