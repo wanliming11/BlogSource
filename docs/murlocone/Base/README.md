@@ -228,6 +228,8 @@
 - [690. 员工的重要性](https://www.notion.so/wanliming/690-8a21dca1b72b48c1869efd4da796a618)
 ### 2.4 最小栈
 - [155. 最小栈](https://www.notion.so/wanliming/155-c8c1267553e84abe9d15ede81276e57a)
+### 2.5 设计股票
+-[2034. 股票价格波动](https://wanliming.notion.site/2034-9dc6116ca4da4dcaaaf7cfe9b2f89914)
 
 
 ## 3. 效率
