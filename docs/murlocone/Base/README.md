@@ -131,6 +131,7 @@
 - [1323. 6 和 9 组成的最大数字](https://wanliming.notion.site/1323-6-9-6416f498294b457fa34c93eaf19d2acf)
 - [1281. 整数的各位积和之差](https://wanliming.notion.site/1281-a5dd4a9fd1854876945c3928d3d0e925)
 - [1290. 二进制链表转整数](https://wanliming.notion.site/1290-3a555de000484510983012e5e24fbe12)
+- [1342. 将数字变成 0 的操作次数](https://wanliming.notion.site/1342-0-3ee7add7f8174faab411d975b70269b9)
 
 ### [组合](https://www.notion.so/wanliming/089f944b171d44bfb1f49078936e6138)
 - [1239. 串联字符串的最大长度](https://www.notion.so/wanliming/1239-320fbc00747f417b93863010fabc4592)
