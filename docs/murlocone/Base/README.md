@@ -130,6 +130,9 @@
 - [977. 有序数组的平方](https://wanliming.notion.site/977-3b48f8f273964e9893b1e67007aa4fbd)
 - [1903. 字符串中的最大奇数](https://wanliming.notion.site/1903-7be2af77851545cda1062e9688c37ea6)
 
+### 【贪心】
+- [1414. 和为 K 的最少斐波那契数字数目](https://wanliming.notion.site/1414-K-207a00b6635c4e66a36b3dab28024bcf)
+
 ### 【数学】
 - [1323. 6 和 9 组成的最大数字](https://wanliming.notion.site/1323-6-9-6416f498294b457fa34c93eaf19d2acf)
 - [1281. 整数的各位积和之差](https://wanliming.notion.site/1281-a5dd4a9fd1854876945c3928d3d0e925)
