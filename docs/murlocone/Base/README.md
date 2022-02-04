@@ -64,6 +64,7 @@
 - [LCP 01. 猜数字](https://wanliming.notion.site/LCP-01-5c663bd6e8334825bf410bedd3482c69)
 - [1332. 删除回文子序列](https://wanliming.notion.site/1332-1ea39c34685b4521abfa9da091a01053)
 - [1380. 矩阵中的幸运数](https://wanliming.notion.site/1380-3aab5465ddd34fee91cc02b8929779a6)
+- [1725. 可以形成最大正方形的矩形数目](https://wanliming.notion.site/1725-2debcdce16f14257a18ae51f80f7c023)
 
 - [896. 单调数列](https://www.notion.so/wanliming/896-28a01bd5d88141ce9ae31c99edb16348)
 
