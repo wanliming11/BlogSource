@@ -28,6 +28,7 @@
 - [1160. 拼写单词](https://wanliming.notion.site/1160-2c7f21837eae45728f2f735b962e1d4c)
 - [884. 两句话中的不常见单词](https://wanliming.notion.site/884-90663af39d224359b49697496c964950)
 - [2000. 反转单词前缀](https://wanliming.notion.site/2000-473a75f99f98473ea931f5c8a239bb6d)
+- [1405. 最长快乐字符串](https://wanliming.notion.site/1405-2e4886f03aca4a7482cd3cef1b098773)
 
 #### 基础操作
 - [58. 最后一个单词的长度](https://www.notion.so/wanliming/58-7e3f7424871c4815887a855280d47540)
