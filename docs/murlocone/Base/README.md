@@ -68,6 +68,7 @@
 - [1380. 矩阵中的幸运数](https://wanliming.notion.site/1380-3aab5465ddd34fee91cc02b8929779a6)
 - [1725. 可以形成最大正方形的矩形数目](https://wanliming.notion.site/1725-2debcdce16f14257a18ae51f80f7c023)
 - [LCP 06. 拿硬币](https://wanliming.notion.site/LCP-06-34012aca9efd4eefbcf489d7017e7fc1)
+- [2006. 差的绝对值为 K 的数对数目](https://wanliming.notion.site/2006-K-cbf68af2a7f44584a00f143577b68779)
 
 - [896. 单调数列](https://www.notion.so/wanliming/896-28a01bd5d88141ce9ae31c99edb16348)
 
