@@ -135,6 +135,7 @@
 - [976. 三角形的最大周长](https://wanliming.notion.site/976-7e769ff630094553a38bf3e9d56bcacd)
 - [977. 有序数组的平方](https://wanliming.notion.site/977-3b48f8f273964e9893b1e67007aa4fbd)
 - [1903. 字符串中的最大奇数](https://wanliming.notion.site/1903-7be2af77851545cda1062e9688c37ea6)
+- [1619. 删除某些元素后的数组均值](https://wanliming.notion.site/1619-2b2e38649df84cffb21445097f249305)
 
 ### 【贪心】
 - [1414. 和为 K 的最少斐波那契数字数目](https://wanliming.notion.site/1414-K-207a00b6635c4e66a36b3dab28024bcf)
