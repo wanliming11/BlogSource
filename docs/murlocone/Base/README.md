@@ -73,6 +73,7 @@
 - [1984. 学生分数的最小差值](https://wanliming.notion.site/1984-059a95074e714326a6961842630a642b)
 
 - [896. 单调数列](https://www.notion.so/wanliming/896-28a01bd5d88141ce9ae31c99edb16348)
+- [540. 有序数组中的单一元素](https://wanliming.notion.site/540-7a8ff1017687480da8ac70d39e9dbf52)
 
 - [304. 二维区域和检索 - 矩阵不可变](https://www.notion.so/wanliming/304-68c1e9edf0bf433592b1d48a05aabc6c)
 - [766. 托普利茨矩阵](https://www.notion.so/wanliming/73-d9e4b12ac48f4ecc9fe96a7c92424cc8)
