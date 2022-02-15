@@ -71,6 +71,7 @@
 - [LCP 06. 拿硬币](https://wanliming.notion.site/LCP-06-34012aca9efd4eefbcf489d7017e7fc1)
 - [2006. 差的绝对值为 K 的数对数目](https://wanliming.notion.site/2006-K-cbf68af2a7f44584a00f143577b68779)
 - [1984. 学生分数的最小差值](https://wanliming.notion.site/1984-059a95074e714326a6961842630a642b)
+- [1380. 矩阵中的幸运数](https://wanliming.notion.site/1380-00dc1732f18b4670b322e2d55d988e32)
 
 - [896. 单调数列](https://www.notion.so/wanliming/896-28a01bd5d88141ce9ae31c99edb16348)
 - [540. 有序数组中的单一元素](https://wanliming.notion.site/540-7a8ff1017687480da8ac70d39e9dbf52)
