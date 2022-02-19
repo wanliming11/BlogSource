@@ -52,6 +52,7 @@
 - [206. 反转链表](https://wanliming.notion.site/206-0b3278d724b842fda13c344b1f9c727c)
 
 ### 1.6 数组
+- [969. 煎饼排序](https://wanliming.notion.site/969-28f0ff29ca74476aa658b9dae539ee7e)
 - [1219. 黄金矿工](https://wanliming.notion.site/1219-63a73894aff54eb793628d9cbde88af5)
 - [1295. 统计位数为偶数的数字](https://wanliming.notion.site/1295-a387258ab0634301878c6486ee75f09f)
 - [766. 托普利茨矩阵](https://www.notion.so/wanliming/LeetCode-766-85a787bdaf734ae5862867f13c4aeb54)
