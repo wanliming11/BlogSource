@@ -52,6 +52,7 @@
 - [206. 反转链表](https://wanliming.notion.site/206-0b3278d724b842fda13c344b1f9c727c)
 
 ### 1.6 数组
+- [1299. 将每个元素替换为右侧最大元素](https://wanliming.notion.site/1299-ab945ddd02814f79aaa7f7078a61f5aa)
 - [717. 1比特与2比特字符](https://wanliming.notion.site/717-1-2-a421630e2da24795948fa5c05f394591)
 - [969. 煎饼排序](https://wanliming.notion.site/969-28f0ff29ca74476aa658b9dae539ee7e)
 - [1219. 黄金矿工](https://wanliming.notion.site/1219-63a73894aff54eb793628d9cbde88af5)
