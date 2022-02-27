@@ -53,6 +53,7 @@
 - [206. 反转链表](https://wanliming.notion.site/206-0b3278d724b842fda13c344b1f9c727c)
 
 ### 1.6 数组
+- [553. 最优除法](https://wanliming.notion.site/553-ba964dae65474f179c1318cb1566bfad)
 - [2016. 增量元素之间的最大差值](https://wanliming.notion.site/2016-ed8e50f91dfa42899759ba8241505ba1)
 - [2154. 将找到的值乘以 2](https://wanliming.notion.site/2154-2-14f11e18764b4140af4129688c009403)
 - [1299. 将每个元素替换为右侧最大元素](https://wanliming.notion.site/1299-ab945ddd02814f79aaa7f7078a61f5aa)
