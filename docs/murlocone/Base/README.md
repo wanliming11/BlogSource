@@ -55,6 +55,7 @@
 - [206. 反转链表](https://wanliming.notion.site/206-0b3278d724b842fda13c344b1f9c727c)
 
 ### 1.6 数组
+- [2100. 适合打劫银行的日子](https://wanliming.notion.site/2100-5e5bec1629854be2add515d740c9b40f)
 - [1337. 矩阵中战斗力最弱的 K 行](https://wanliming.notion.site/1337-K-136e840522de4bcfb104d266a8f97e74)
 - [1800. 最大升序子数组和](https://leetcode-cn.com/problems/maximum-ascending-subarray-sum/)
 - [553. 最优除法](https://wanliming.notion.site/553-ba964dae65474f179c1318cb1566bfad)
