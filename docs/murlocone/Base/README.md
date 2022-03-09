@@ -55,6 +55,7 @@
 - [206. 反转链表](https://wanliming.notion.site/206-0b3278d724b842fda13c344b1f9c727c)
 
 ### 1.6 数组
+- [1207. 独一无二的出现次数](https://wanliming.notion.site/1207-dd002e742bc74f28858b095259a06c8e)
 - [2100. 适合打劫银行的日子](https://wanliming.notion.site/2100-5e5bec1629854be2add515d740c9b40f)
 - [1337. 矩阵中战斗力最弱的 K 行](https://wanliming.notion.site/1337-K-136e840522de4bcfb104d266a8f97e74)
 - [1800. 最大升序子数组和](https://leetcode-cn.com/problems/maximum-ascending-subarray-sum/)
