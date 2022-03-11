@@ -158,6 +158,7 @@
 - [1414. 和为 K 的最少斐波那契数字数目](https://wanliming.notion.site/1414-K-207a00b6635c4e66a36b3dab28024bcf)
 
 ### 【数学】
+- [1252. 奇数值单元格的数目](https://wanliming.notion.site/1252-4a4a25e1f6af45e3ac1060a61558216c)
 - [504. 七进制数](https://wanliming.notion.site/504-7c60a9c240fa44058906081723b79f8b)
 - [258. 各位相加](https://wanliming.notion.site/258-501f5ce4e45d4992bb949d14f3c8c10c)
 - [1323. 6 和 9 组成的最大数字](https://wanliming.notion.site/1323-6-9-6416f498294b457fa34c93eaf19d2acf)
