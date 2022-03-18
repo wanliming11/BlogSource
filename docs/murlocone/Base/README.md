@@ -56,6 +56,7 @@
 - [206. 反转链表](https://wanliming.notion.site/206-0b3278d724b842fda13c344b1f9c727c)
 
 ### 1.6 数组
+- [2022. 将一维数组转变成二维数组](https://wanliming.notion.site/2022-af4e0e5863584eacb4a37c3448b0d5eb)
 - [599. 两个列表的最小索引总和](https://wanliming.notion.site/599-5359663a12724bc69d474ae045098e31)
 - [393. UTF-8 编码验证](https://wanliming.notion.site/393-UTF-8-d1d7c89f6eb04d1294e7b06ebef61229)
 - [1207. 独一无二的出现次数](https://wanliming.notion.site/1207-dd002e742bc74f28858b095259a06c8e)
