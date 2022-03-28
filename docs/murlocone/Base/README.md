@@ -232,6 +232,7 @@
 - [1290. 二进制链表转整数](https://wanliming.notion.site/1290-5c17f8da58b840d2b3e7f59c844758e1)
 
 ### 1.12 bit
+- [693. 交替位二进制数](https://wanliming.notion.site/693-574578e803504b7da54e7d59706c7f71)
 - [191. 位1的个数](https://www.notion.so/wanliming/191-1-82849202b06c4eac91d1a54d4fd2e5f3)
 - [190. 颠倒二进制位](https://www.notion.so/wanliming/190-ab52abce125a473ebf9006a6d6d327e8)
 - [1006. 笨阶乘](https://www.notion.so/wanliming/1006-cf2926780f18481682071a0eec8f8f1b)
