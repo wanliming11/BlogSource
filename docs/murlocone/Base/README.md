@@ -275,6 +275,8 @@
 ### 2.5 设计股票
 -[2034. 股票价格波动](https://wanliming.notion.site/2034-9dc6116ca4da4dcaaaf7cfe9b2f89914)
 -[933. 最近的请求次数](https://wanliming.notion.site/933-f2307a8330d94b61b430729d984c6b42)
+### 2.6 设计数组
+- [307. 区域和检索 - 数组可修改](https://wanliming.notion.site/307-db5c3859d37943b48aa891b0d6844df8)
 
 
 ## 3. 效率
