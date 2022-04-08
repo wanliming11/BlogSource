@@ -159,6 +159,7 @@
 - [977. 有序数组的平方](https://wanliming.notion.site/977-3b48f8f273964e9893b1e67007aa4fbd)
 - [1903. 字符串中的最大奇数](https://wanliming.notion.site/1903-7be2af77851545cda1062e9688c37ea6)
 - [1619. 删除某些元素后的数组均值](https://wanliming.notion.site/1619-2b2e38649df84cffb21445097f249305)
+- [429. N 叉树的层序遍历](https://wanliming.notion.site/429-N-2cd6fc7e91f04c9ca458f982ea48df43)
 
 ### 【贪心】
 - [1414. 和为 K 的最少斐波那契数字数目](https://wanliming.notion.site/1414-K-207a00b6635c4e66a36b3dab28024bcf)
