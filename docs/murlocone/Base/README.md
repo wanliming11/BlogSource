@@ -58,6 +58,7 @@
 - [206. 反转链表](https://wanliming.notion.site/206-0b3278d724b842fda13c344b1f9c727c)
 
 ### 1.6 数组
+- [380. O(1) 时间插入、删除和获取随机元素](https://wanliming.notion.site/380-O-1-2443276d58594822bd87164d74d71f54)
 - [914. 卡牌分组](https://wanliming.notion.site/914-309bb6962bcf424fabc806eac5bdd07d)
 - [744. 寻找比目标字母大的最小字母](https://wanliming.notion.site/744-ae82f3e53d554d6e95d2690f94c3676d)
 - [961. 在长度 2N 的数组中找出重复 N 次的元素](https://wanliming.notion.site/961-2N-N-d0fa52876f3546b792ddeab1806f1492)
