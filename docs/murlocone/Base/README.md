@@ -58,6 +58,7 @@
 - [206. 反转链表](https://wanliming.notion.site/206-0b3278d724b842fda13c344b1f9c727c)
 
 ### 1.6 数组
+- [1672. 最富有客户的资产总量](https://wanliming.notion.site/1672-6d1e6f0dc0b543fd942db11dbf995085)
 - [380. O(1) 时间插入、删除和获取随机元素](https://wanliming.notion.site/380-O-1-2443276d58594822bd87164d74d71f54)
 - [914. 卡牌分组](https://wanliming.notion.site/914-309bb6962bcf424fabc806eac5bdd07d)
 - [744. 寻找比目标字母大的最小字母](https://wanliming.notion.site/744-ae82f3e53d554d6e95d2690f94c3676d)
