@@ -13,6 +13,7 @@
 - [11. 盛最多水的容器](https://www.notion.so/wanliming/LeetCode-11-63a691b8288c43b3b330da57de697e02)
 
 ### 1.3 字符串
+- [821. 字符的最短距离](https://wanliming.notion.site/821-99437ab3e47741d2b6e65c399060b919)
 - [819. 最常见的单词](https://wanliming.notion.site/819-cb4e57452d974e63b35cb19cd7c15a32)
 - [806. 写字符串需要的行数](https://wanliming.notion.site/806-19bb4368b33f4ea5804428670f52d73e)
 - [804. 唯一摩尔斯密码词](https://wanliming.notion.site/804-968b48d119ec4e85a679bd01396e1887)
