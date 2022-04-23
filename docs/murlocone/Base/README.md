@@ -13,6 +13,7 @@
 - [11. 盛最多水的容器](https://www.notion.so/wanliming/LeetCode-11-63a691b8288c43b3b330da57de697e02)
 
 ### 1.3 字符串
+- [937. 重新排列日志文件](https://wanliming.notion.site/937-bb07156fd06f4678a6495f4ddee1f1ae)
 - [2124. 检查是否所有 A 都在 B 之前](https://wanliming.notion.site/2124-A-B-a36ab2b7057042ee894d1882440309b7)
 - [824. 山羊拉丁文](https://wanliming.notion.site/824-200dd03415bd4dc9902d2d92f819e9d7)
 - [821. 字符的最短距离](https://wanliming.notion.site/821-99437ab3e47741d2b6e65c399060b919)
