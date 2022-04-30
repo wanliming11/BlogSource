@@ -63,6 +63,7 @@
 - [206. 反转链表](https://wanliming.notion.site/206-0b3278d724b842fda13c344b1f9c727c)
 
 ### 1.6 数组
+- [908. 最小差值 I](https://wanliming.notion.site/908-I-07f6b1f7793246c0bb25aa4b9f439d77)
 - [905. 按奇偶排序数组](https://wanliming.notion.site/905-7f6beb2f7bde497ca373267b69093948)
 - [1672. 最富有客户的资产总量](https://wanliming.notion.site/1672-6d1e6f0dc0b543fd942db11dbf995085)
 - [380. O(1) 时间插入、删除和获取随机元素](https://wanliming.notion.site/380-O-1-2443276d58594822bd87164d74d71f54)
