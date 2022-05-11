@@ -13,6 +13,7 @@
 - [11. 盛最多水的容器](https://www.notion.so/wanliming/LeetCode-11-63a691b8288c43b3b330da57de697e02)
 
 ### 1.3 字符串
+- [1309. 解码字母到整数映射](https://wanliming.notion.site/1309-50001136812e466bb50fb6c291e9cff9)
 - [942. 增减字符串匹配](https://wanliming.notion.site/942-e832983e6f2146338d624ac81e39889f)
 - [1636. 按照频率将数组升序排序](https://wanliming.notion.site/1636-5b9e6e4ccb944ed599d6cdc1026b4fdc)
 - [937. 重新排列日志文件](https://wanliming.notion.site/937-bb07156fd06f4678a6495f4ddee1f1ae)
