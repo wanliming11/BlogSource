@@ -68,6 +68,7 @@
 - [206. 反转链表](https://wanliming.notion.site/206-0b3278d724b842fda13c344b1f9c727c)
 
 ### 1.6 数组
+- [974. 和可被 K 整除的子数组](https://wanliming.notion.site/974-K-361-716d2baa11ab43d198362373a8ba1630)
 - [485. 最大连续 1 的个数](https://wanliming.notion.site/485-1-588a3e0dd6f24aaba7ae4b9189dc12fa)
 - [1550. 存在连续三个奇数的数组](https://wanliming.notion.site/1550-ba14207e053d4c7cbe6cdfe491ace4c3)
 - [908. 最小差值 I](https://wanliming.notion.site/908-I-07f6b1f7793246c0bb25aa4b9f439d77)
