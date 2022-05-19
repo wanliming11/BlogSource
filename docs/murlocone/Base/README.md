@@ -13,6 +13,7 @@
 - [11. 盛最多水的容器](https://www.notion.so/wanliming/LeetCode-11-63a691b8288c43b3b330da57de697e02)
 
 ### 1.3 字符串
+- [771. 宝石与石头](https://wanliming.notion.site/771-45c4a97b03d04fc581337cf46da33e23)
 - [1317. 将整数转换为两个无零整数的和](https://wanliming.notion.site/1317-35386573218e43ffb39ec6636b5a5431)
 - [944. 删列造序](https://wanliming.notion.site/944-5d577e2314534d60b0e11dfe85f05eac)
 - [1309. 解码字母到整数映射](https://wanliming.notion.site/1309-50001136812e466bb50fb6c291e9cff9)
