@@ -273,6 +273,7 @@
 
 ### 1.13 树
 #### 树的基础操作
+- [965. 单值二叉树](https://wanliming.notion.site/965-3a9ced996d6f4334bff44c7e4241ab44)
 - [1305. 两棵二叉搜索树中的所有元素](https://wanliming.notion.site/1305-7b1d60c3bbc84883bbeeb74742240c3c)
 - [590. N 叉树的后序遍历](https://wanliming.notion.site/590-N-bb45a36de2af4e5eae32bf0a333c2f2a)
 - [589. N 叉树的前序遍历](https://wanliming.notion.site/589-N-332667b18916486495926e287d39b9fe)
