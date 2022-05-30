@@ -275,6 +275,7 @@
 
 ### 1.13 树
 #### 树的基础操作
+- [1022. 从根到叶的二进制数之和](https://wanliming.notion.site/1022-cb0a65405cf445a0863c1c0d9bbb7b31)
 - [109. 有序链表转换二叉搜索树](https://wanliming.notion.site/109-baa5e4c76c7e4a34bb2ed99e7277b4d9)
 - [965. 单值二叉树](https://wanliming.notion.site/965-3a9ced996d6f4334bff44c7e4241ab44)
 - [1305. 两棵二叉搜索树中的所有元素](https://wanliming.notion.site/1305-7b1d60c3bbc84883bbeeb74742240c3c)
