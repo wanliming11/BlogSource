@@ -13,6 +13,7 @@
 - [11. 盛最多水的容器](https://www.notion.so/wanliming/LeetCode-11-63a691b8288c43b3b330da57de697e02)
 
 ### 1.3 字符串
+- [929. 独特的电子邮件地址](https://wanliming.notion.site/929-61eda98457194a5692cd1468793d8601)
 - [1374. 生成每种字符都是奇数个的字符串](https://wanliming.notion.site/1374-40dfa3d968bd42e6ab69dea7f5feb1d2)
 - [1556. 千位分隔数](https://wanliming.notion.site/1556-5528678bc63f4c43bfc5926668c5a064)
 - [771. 宝石与石头](https://wanliming.notion.site/771-45c4a97b03d04fc581337cf46da33e23)
