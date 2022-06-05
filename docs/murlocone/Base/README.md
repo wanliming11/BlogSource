@@ -73,6 +73,7 @@
 - [206. 反转链表](https://wanliming.notion.site/206-0b3278d724b842fda13c344b1f9c727c)
 
 ### 1.6 数组
+- [LCP 50. 宝石补给](https://wanliming.notion.site/LCP-50-322bae3a678d4a2ba38e4a1c9cabc0eb)
 - [1773. 统计匹配检索规则的物品数量](https://wanliming.notion.site/1773-e5c033d247004041a87305604c764fb3)
 - [561. 数组拆分 I](https://wanliming.notion.site/561-I-112335e1ab374f96be00b340e94246dc)
 - [1710. 卡车上的最大单元数](https://wanliming.notion.site/1710-34b9ba3685804b46a5cbf864c474b566)
