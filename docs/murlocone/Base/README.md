@@ -13,6 +13,7 @@
 - [11. 盛最多水的容器](https://www.notion.so/wanliming/LeetCode-11-63a691b8288c43b3b330da57de697e02)
 
 ### 1.3 字符串
+- [748. 最短补全词](https://wanliming.notion.site/748-77497af73c284f5c87193a77a5d173bd)
 - [面试题 01.04. 回文排列](https://wanliming.notion.site/01-04-d40626cf5e6042949583e2c389b75233)
 - [929. 独特的电子邮件地址](https://wanliming.notion.site/929-61eda98457194a5692cd1468793d8601)
 - [1374. 生成每种字符都是奇数个的字符串](https://wanliming.notion.site/1374-40dfa3d968bd42e6ab69dea7f5feb1d2)
