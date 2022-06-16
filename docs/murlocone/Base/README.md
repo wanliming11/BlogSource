@@ -13,6 +13,7 @@
 - [11. 盛最多水的容器](https://www.notion.so/wanliming/LeetCode-11-63a691b8288c43b3b330da57de697e02)
 
 ### 1.3 字符串
+- [1736. 替换隐藏数字得到的最晚时间](https://wanliming.notion.site/1736-d649e6aeca8e404598b8c6c3c2f5b867)
 - [1108. IP 地址无效化](https://wanliming.notion.site/1108-IP-292bb033ef5f46079683826f29bc7fa3)
 - [748. 最短补全词](https://wanliming.notion.site/748-77497af73c284f5c87193a77a5d173bd)
 - [面试题 01.04. 回文排列](https://wanliming.notion.site/01-04-d40626cf5e6042949583e2c389b75233)
