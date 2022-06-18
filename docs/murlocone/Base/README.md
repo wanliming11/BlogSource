@@ -203,6 +203,7 @@
 - [1414. 和为 K 的最少斐波那契数字数目](https://wanliming.notion.site/1414-K-207a00b6635c4e66a36b3dab28024bcf)
 
 ### 【数学】
+- [2206. 将数组划分成相等数对](https://wanliming.notion.site/2206-5650af3e8d7c4f3aa24baf76ce7eb32b)
 - [762. 二进制表示中质数个计算置位](https://wanliming.notion.site/762-6a0c23e7ccbc4ad284570a3e89cd2587)
 - [172. 阶乘后的零](https://wanliming.notion.site/172-b690089d171b4c8ebe50ad8588f49b7e)
 - [1252. 奇数值单元格的数目](https://wanliming.notion.site/1252-4a4a25e1f6af45e3ac1060a61558216c)
