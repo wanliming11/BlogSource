@@ -78,6 +78,7 @@
 - [206. 反转链表](https://wanliming.notion.site/206-0b3278d724b842fda13c344b1f9c727c)
 
 ### 1.6 数组
+- [1389. 按既定顺序创建目标数组](https://wanliming.notion.site/1389-c63bf5054c59418681e6eff1e3ebbee6)
 - [1051. 高度检查器](https://wanliming.notion.site/1051-fea5e06af22d4a0dab90fce9d1060606)
 - [1480. 一维数组的动态和](https://wanliming.notion.site/1480-41995e0c445a43a098bf8b561bb9b32f)
 - [1037. 有效的回旋镖](https://wanliming.notion.site/1037-7404184e0e594cc2846e760ed60afa48)
