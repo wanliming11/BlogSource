@@ -312,6 +312,7 @@
 - [938. 二叉搜索树的范围和](https://www.notion.so/wanliming/938-a8c3d213153b4c54a6a34d800a48fa5e)
 - [872. 叶子相似的树](https://www.notion.so/wanliming/872-59d55e9bd6dc414e9fa416b4d9708c92)
 - [993. 二叉树的堂兄弟节点](https://www.notion.so/wanliming/993-46ea9298381c4511adad809a38c451b6)
+- [2236. 判断根结点是否等于子结点之和](https://wanliming.notion.site/2236-9c1fb8043d114a93b7ee3e77e8cfb080)
 
 ### 1.14 链表
 
