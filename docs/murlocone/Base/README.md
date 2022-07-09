@@ -83,6 +83,7 @@
 - [206. 反转链表](https://wanliming.notion.site/206-0b3278d724b842fda13c344b1f9c727c)
 
 ### 1.6 数组
+- [1346. 检查整数及其两倍数是否存在](https://wanliming.notion.site/1346-a1318a591aa644debe74ea286140397f)
 - [1732. 找到最高海拔](https://wanliming.notion.site/1732-61a519e5f4fb4ed8a451a84cee56ab20)
 - [682. 棒球比赛](https://wanliming.notion.site/682-c5489bed49574b009dd239a1ad00e744)
 - [1389. 按既定顺序创建目标数组](https://wanliming.notion.site/1389-c63bf5054c59418681e6eff1e3ebbee6)
