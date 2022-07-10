@@ -83,6 +83,7 @@
 - [206. 反转链表](https://wanliming.notion.site/206-0b3278d724b842fda13c344b1f9c727c)
 
 ### 1.6 数组
+- [747. 至少是其他数字两倍的最大数](https://wanliming.notion.site/747-d5a64fae314949849953ad63c114bbac)
 - [1346. 检查整数及其两倍数是否存在](https://wanliming.notion.site/1346-a1318a591aa644debe74ea286140397f)
 - [1732. 找到最高海拔](https://wanliming.notion.site/1732-61a519e5f4fb4ed8a451a84cee56ab20)
 - [682. 棒球比赛](https://wanliming.notion.site/682-c5489bed49574b009dd239a1ad00e744)
