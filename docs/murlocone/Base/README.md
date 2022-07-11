@@ -13,6 +13,7 @@
 - [11. 盛最多水的容器](https://www.notion.so/wanliming/LeetCode-11-63a691b8288c43b3b330da57de697e02)
 
 ### 1.3 字符串
+- [242. 有效的字母异位词](https://wanliming.notion.site/242-44807544a2124dfbb44ea376b92828c0)
 - [350. 两个数组的交集 II](https://wanliming.notion.site/350-II-ddbda1a0237f49cf85a5abee4e6d5cd3)
 - [459. 重复的子350. 两个数组的交集 II字符串](https://wanliming.notion.site/459-6e12fdbd1f4c46cfb3ce99486613e260)
 - [796. 旋转字符串](https://wanliming.notion.site/796-cfb2e49dc3f24d118d92ce77d6644670)
