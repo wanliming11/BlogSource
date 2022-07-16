@@ -337,6 +337,7 @@
 -[2034. 股票价格波动](https://wanliming.notion.site/2034-9dc6116ca4da4dcaaaf7cfe9b2f89914)
 -[933. 最近的请求次数](https://wanliming.notion.site/933-f2307a8330d94b61b430729d984c6b42)
 ### 2.6 设计数组
+- [剑指 Offer II 041. 滑动窗口的平均值](https://wanliming.notion.site/Offer-II-041-8782887ecf05454f8cf2570c1ecae2cb)
 - [307. 区域和检索 - 数组可修改](https://wanliming.notion.site/307-db5c3859d37943b48aa891b0d6844df8)
 - [933. 最近的请求次数](https://wanliming.notion.site/933-5cb11cb98be643e9838b125bef66b1b7)
 - [剑指 Offer II 042. 最近请求次数](https://wanliming.notion.site/Offer-II-042-530a951285b8407fb9b03e11c6e6a18d)
