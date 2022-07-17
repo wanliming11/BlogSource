@@ -85,6 +85,7 @@
 - [206. 反转链表](https://wanliming.notion.site/206-0b3278d724b842fda13c344b1f9c727c)
 
 ### 1.6 数组
+- [1640. 能否连接形成数组](https://wanliming.notion.site/1640-eb983653ccc74d7fb84234366e1e1a9a)
 - [1450. 在既定时间做作业的学生人数](https://wanliming.notion.site/1450-c933d45dee2145fab937b148bdea5a3f)
 - [2133. 检查是否每一行每一列都包含全部整数](https://wanliming.notion.site/2133-1f25a8bb13564a67802f8dd15aaaef34)
 - [747. 至少是其他数字两倍的最大数](https://wanliming.notion.site/747-d5a64fae314949849953ad63c114bbac)
