@@ -221,6 +221,7 @@
 - [429. N 叉树的层序遍历](https://wanliming.notion.site/429-N-2cd6fc7e91f04c9ca458f982ea48df43)
 
 ### 【贪心】
+- [2027. 转换字符串的最少操作次数](https://wanliming.notion.site/2027-2fc20409bc064743ad909a51d43aba5d)
 - [1414. 和为 K 的最少斐波那契数字数目](https://wanliming.notion.site/1414-K-207a00b6635c4e66a36b3dab28024bcf)
 
 ### 【数学】
