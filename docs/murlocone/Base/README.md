@@ -352,6 +352,8 @@
 - [307. 区域和检索 - 数组可修改](https://wanliming.notion.site/307-db5c3859d37943b48aa891b0d6844df8)
 - [933. 最近的请求次数](https://wanliming.notion.site/933-5cb11cb98be643e9838b125bef66b1b7)
 - [剑指 Offer II 042. 最近请求次数](https://wanliming.notion.site/Offer-II-042-530a951285b8407fb9b03e11c6e6a18d)
+### 2.7 设计栈
+- [225. 用队列实现栈](https://www.notion.so/wanliming/225-355a871763c746c69ef207505b854209)
 
 ## 3. 效率
 ### 3.1 绩效计算脚本
