@@ -13,6 +13,7 @@
 - [11. 盛最多水的容器](https://www.notion.so/wanliming/LeetCode-11-63a691b8288c43b3b330da57de697e02)
 
 ### 1.3 字符串
+- [1374. 生成每种字符都是奇数个的字符串](https://www.notion.so/wanliming/1374-6ae2e91294f047d98f570d8bfdb0574b)
 - [LCP 17. 速算机器人](https://www.notion.so/wanliming/LCP-17-38f29b13707c4aee9a24fea84f946163)
 - [551. 学生出勤记录 I](https://www.notion.so/wanliming/551-I-d695394769fe4c2ca8d970711e6e7179)
 - [1629. 按键持续时间最长的键](https://wanliming.notion.site/1629-27ff7e9c2dfb451dad8ac3d3610f817b)
