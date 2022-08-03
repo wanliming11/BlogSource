@@ -91,6 +91,7 @@
 - [206. 反转链表](https://wanliming.notion.site/206-0b3278d724b842fda13c344b1f9c727c)
 
 ### 1.6 数组
+- [1684. 统计一致字符串的数目](https://www.notion.so/wanliming/1684-15e5819bb9a8432495852e079621e86e)
 - [LCP 39. 无人机方阵](https://www.notion.so/wanliming/LCP-39-4082e1c773f24adb82b3a1f06c322f00)
 - [1560. 圆形赛道上经过次数最多的扇区](https://www.notion.so/wanliming/1560-eabee3894eb345a89d1f721d0b47e44a)
 - [1331. 数组序号转换](https://www.notion.so/wanliming/1331-99764b42b4714bf682e516d6ddecce97)
