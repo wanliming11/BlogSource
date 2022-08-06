@@ -13,6 +13,7 @@
 - [11. 盛最多水的容器](https://www.notion.so/wanliming/LeetCode-11-63a691b8288c43b3b330da57de697e02)
 
 ### 1.3 字符串
+- [1408. 数组中的字符串匹配](https://www.notion.so/wanliming/1408-22747e62bfb148acac9c680090e73904)
 - [2255. 统计是给定字符串前缀的字符串数目](https://www.notion.so/wanliming/2255-a62b59a609724554827a9d21e378d056)
 - [1374. 生成每种字符都是奇数个的字符串](https://www.notion.so/wanliming/1374-6ae2e91294f047d98f570d8bfdb0574b)
 - [LCP 17. 速算机器人](https://www.notion.so/wanliming/LCP-17-38f29b13707c4aee9a24fea84f946163)
