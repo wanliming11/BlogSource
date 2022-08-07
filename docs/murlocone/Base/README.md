@@ -164,6 +164,7 @@
 - [540. 有序数组中的单一元素](https://wanliming.notion.site/540-7a8ff1017687480da8ac70d39e9dbf52)
 - [1266. 访问所有点的最小时间](https://wanliming.notion.site/1266-67ce736a54f24826befb5c0123cd8b71)
 
+- [2319. 判断矩阵是否是一个 X 矩阵](https://www.notion.so/wanliming/2319-X-2de7de15623d496a9eac4fbe603f60c8)
 - [304. 二维区域和检索 - 矩阵不可变](https://www.notion.so/wanliming/304-68c1e9edf0bf433592b1d48a05aabc6c)
 - [766. 托普利茨矩阵](https://www.notion.so/wanliming/73-d9e4b12ac48f4ecc9fe96a7c92424cc8)
 - [74. 搜索二维矩阵](https://www.notion.so/wanliming/74-f24a6a0994cd4e44b87c113022a9734d)
