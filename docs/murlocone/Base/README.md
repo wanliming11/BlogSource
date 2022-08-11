@@ -13,6 +13,7 @@
 - [11. 盛最多水的容器](https://www.notion.so/wanliming/LeetCode-11-63a691b8288c43b3b330da57de697e02)
 
 ### 1.3 字符串
+- [1417. 重新格式化字符串](https://www.notion.so/wanliming/1417-8dc876b2ae0d40739de6c18dcf451db6)
 - [1154. 一年中的第几天](https://www.notion.so/wanliming/1154-de1fe58f38fa4d9e8817772f152df104)
 - [1408. 数组中的字符串匹配](https://www.notion.so/wanliming/1408-22747e62bfb148acac9c680090e73904)
 - [2255. 统计是给定字符串前缀的字符串数目](https://www.notion.so/wanliming/2255-a62b59a609724554827a9d21e378d056)
