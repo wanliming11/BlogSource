@@ -94,6 +94,7 @@
 - [206. 反转链表](https://wanliming.notion.site/206-0b3278d724b842fda13c344b1f9c727c)
 
 ### 1.6 数组
+- [2144. 打折购买糖果的最小开销](https://www.notion.so/wanliming/2144-1d591194e88a4e4887bdddda6144cfd3)
 - [1539. 第 k 个缺失的正整数](https://www.notion.so/wanliming/1539-k-183f4ef9ee614ee6a86469b61b9cf8f0)
 - [455. 分发饼干](https://www.notion.so/wanliming/455-21dd5032c0f04265a2b855abdaa10079)
 - [1413. 逐步求和得到正数的最小值](https://www.notion.so/wanliming/1413-d98c457380f94798ad78e51bf1859ae7)
