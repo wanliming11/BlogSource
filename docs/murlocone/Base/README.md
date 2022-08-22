@@ -13,6 +13,7 @@
 - [11. 盛最多水的容器](https://www.notion.so/wanliming/LeetCode-11-63a691b8288c43b3b330da57de697e02)
 
 ### 1.3 字符串
+- [925. 长按键入](https://www.notion.so/wanliming/925-f16e41a2ad0d4ad18d22a03d9682ec2f)
 - [1455. 检查单词是否为句中其他单词的前缀](https://www.notion.so/wanliming/1455-dfa97fc186d9406a8e47c3c263b99799)
 - [598. 范围求和 II](https://www.notion.so/wanliming/598-II-ac70fc776432419b8b4c69bc25b5aa0e)
 - [2129. 将标题首字母大写](https://www.notion.so/wanliming/2129-e6cb13a02ba046d6b266ceac9e4981f4)
