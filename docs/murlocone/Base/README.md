@@ -253,6 +253,7 @@
 - [1414. 和为 K 的最少斐波那契数字数目](https://wanliming.notion.site/1414-K-207a00b6635c4e66a36b3dab28024bcf)
 
 ### 【数学】
+- [1952. 三除数](https://www.notion.so/wanliming/1952-ca28bc736d484e82a681212296a567df)
 - [2180. 统计各位数字之和为偶数的整数个数](https://www.notion.so/wanliming/2180-a6fc9c929e484be2a9f262c1532e28e9)
 - [507. 完美数](https://wanliming.notion.site/507-815287c63dd34770b35af8b528e4faed)
 - [2206. 将数组划分成相等数对](https://wanliming.notion.site/2206-5650af3e8d7c4f3aa24baf76ce7eb32b)
