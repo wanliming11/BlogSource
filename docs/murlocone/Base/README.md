@@ -103,6 +103,7 @@
 - [206. 反转链表](https://wanliming.notion.site/206-0b3278d724b842fda13c344b1f9c727c)
 
 ### 1.6 数组
+- [1470. 重新排列数组](https://www.notion.so/wanliming/1470-c9b0a791807d4d04a2ec2b1f53498d7b)
 - [1460. 通过翻转子数组使两个数组相等](https://www.notion.so/wanliming/1460-f49c528dd8b543c4b67e7ec5259e4616)
 - [2367. 算术三元组的数目](https://www.notion.so/wanliming/2367-ac05c5558f914553aee4ff4cf91619fc)
 - [1656. 设计有序流](https://www.notion.so/wanliming/1656-5a75f422ace84224b62b6efee02c5d99)
