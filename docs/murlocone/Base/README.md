@@ -13,6 +13,7 @@
 - [11. 盛最多水的容器](https://www.notion.so/wanliming/LeetCode-11-63a691b8288c43b3b330da57de697e02)
 
 ### 1.3 字符串
+- [844. 比较含退格的字符串](https://www.notion.so/wanliming/844-8f2bdf910f5b4dfda3611fb1621abee5)
 - [1961. 检查字符串是否为数组前缀](https://www.notion.so/wanliming/1961-852ac465bf0946b791e8e152a228123d)
 - [1967. 作为子字符串出现在单词中的字符串数目](https://www.notion.so/wanliming/1967-f58a9936e8074adeb126f7d0dd0f13f4)
 - [1464. 数组中两元素的最大乘积](https://www.notion.so/wanliming/1464-23a5b25f5a294f9fb68c508a7b08a612)
