@@ -106,6 +106,7 @@
 - [206. 反转链表](https://wanliming.notion.site/206-0b3278d724b842fda13c344b1f9c727c)
 
 ### 1.6 数组
+- [剑指 Offer 03. 数组中重复的数字](https://www.notion.so/wanliming/Offer-03-aec0ff39ddbc4bdc945a60826f742b1c)
 - [1582. 二进制矩阵中的特殊位置](https://www.notion.so/wanliming/1582-57ff64e36c864a7f88641fe5cd857bbb)
 - [1475. 商品折扣后的最终价格](https://www.notion.so/wanliming/1475-fd748c52de1944fa84087409508e48b7)
 - [1470. 重新排列数组](https://www.notion.so/wanliming/1470-c9b0a791807d4d04a2ec2b1f53498d7b)
