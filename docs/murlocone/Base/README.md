@@ -106,6 +106,7 @@
 - [206. 反转链表](https://wanliming.notion.site/206-0b3278d724b842fda13c344b1f9c727c)
 
 ### 1.6 数组
+- [704. 二分查找](https://wanliming.notion.site/704-578e00dd3c184cf18457d4279929efe9)
 - [387. 字符串中的第一个唯一字符](https://www.notion.so/wanliming/387-eb215c1b13654c46a0f5390639b10a10)
 - [剑指 Offer 03. 数组中重复的数字](https://www.notion.so/wanliming/Offer-03-aec0ff39ddbc4bdc945a60826f742b1c)
 - [1582. 二进制矩阵中的特殊位置](https://www.notion.so/wanliming/1582-57ff64e36c864a7f88641fe5cd857bbb)
