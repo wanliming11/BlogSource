@@ -13,6 +13,7 @@
 - [11. 盛最多水的容器](https://www.notion.so/wanliming/LeetCode-11-63a691b8288c43b3b330da57de697e02)
 
 ### 1.3 字符串
+- [剑指 Offer II 019. 最多删除一个字符得到回文](https://www.notion.so/wanliming/Offer-II-019-78e7aca246b34bf5858ffe71469e6d99)
 - [1598. 文件夹操作日志搜集器](https://www.notion.so/wanliming/1598-a3dc67570a39429099d9501b0f85f3aa)
 - [844. 比较含退格的字符串](https://www.notion.so/wanliming/844-8f2bdf910f5b4dfda3611fb1621abee5)
 - [1961. 检查字符串是否为数组前缀](https://www.notion.so/wanliming/1961-852ac465bf0946b791e8e152a228123d)
