@@ -107,6 +107,7 @@
 - [206. 反转链表](https://wanliming.notion.site/206-0b3278d724b842fda13c344b1f9c727c)
 
 ### 1.6 数组
+- [1566. 重复至少 K 次且长度为 M 的模式](https://www.notion.so/wanliming/1566-K-M-e4454b04f8ef4dda9ffe43c421f4ebe6)
 - [1848. 到目标元素的最小距离](https://www.notion.so/wanliming/1848-f997c03fbf864930bc688e4c8cb541a2)
 - [367. 有效的完全平方数](https://www.notion.so/wanliming/367-e6ce54fc953d482ca3dd1e06483998aa)
 - [704. 二分查找](https://wanliming.notion.site/704-578e00dd3c184cf18457d4279929efe9)
