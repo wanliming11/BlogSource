@@ -307,6 +307,7 @@
 - [232. 用栈实现队列](https://www.notion.so/wanliming/232-7aa4dfb10d814ea7819fa5ed07e87a4d)
 
 ### 1.9 动态规划
+- [面试题 16.17. 连续数列](https://www.notion.so/wanliming/16-17-32a630d6847d44d2b0b42059fec6e46e)
 - [354. 俄罗斯套娃信封问题](https://www.notion.so/wanliming/354-804b60f0756f4ee5ae840326caadd804)
 - [1143. 最长公共子序列](https://www.notion.so/wanliming/1143-153da159af5d4861997752aa1d06fb31)
 - [264. 丑数 II](https://www.notion.so/wanliming/264-II-599852c8c10f4f438ec9718a8483ff8f)
