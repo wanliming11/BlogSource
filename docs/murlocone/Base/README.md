@@ -107,6 +107,7 @@
 - [206. 反转链表](https://wanliming.notion.site/206-0b3278d724b842fda13c344b1f9c727c)
 
 ### 1.6 数组
+- [1652. 拆炸弹](https://www.notion.so/wanliming/1652-60ea130b3c584c008bc0bad090e2a91b)
 - [674. 最长连续递增序列](https://www.notion.so/wanliming/674-d90dde3a009546b69c123a74cd966fa7)
 - [1991. 找到数组的中间位置](https://www.notion.so/wanliming/1991-9b12c39a4f5144dd86976bf5a77a5c27)
 - [1566. 重复至少 K 次且长度为 M 的模式](https://www.notion.so/wanliming/1566-K-M-e4454b04f8ef4dda9ffe43c421f4ebe6)
