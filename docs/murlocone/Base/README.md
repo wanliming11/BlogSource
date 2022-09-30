@@ -13,6 +13,7 @@
 - [11. 盛最多水的容器](https://www.notion.so/wanliming/LeetCode-11-63a691b8288c43b3b330da57de697e02)
 
 ### 1.3 字符串
+- [1678. 设计 Goal 解析器](https://www.notion.so/wanliming/1678-Goal-8838af088e484900be6f40dc4808130f)
 - [面试题 01.09. 字符串轮转](https://www.notion.so/wanliming/01-09-530df3c0902144ac93db4849e131bab8)
 - [剑指 Offer II 019. 最多删除一个字符得到回文](https://www.notion.so/wanliming/Offer-II-019-78e7aca246b34bf5858ffe71469e6d99)
 - [1598. 文件夹操作日志搜集器](https://www.notion.so/wanliming/1598-a3dc67570a39429099d9501b0f85f3aa)
