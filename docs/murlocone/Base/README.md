@@ -2,7 +2,7 @@
 
 ## 0. 基础思想
 - [横向和纵向思维的扩充](https://www.notion.so/wanliming/ef68d115d86040dda3b9c56459f170ce)
-## 1. Algo
+## 1. Algo  
 
 ### 1.1 并查集
 - [婴儿名字](https://www.notion.so/wanliming/LeetCode-baby-names-lcci-b48b85d4759c4c9697670e99b5e59b49)
