@@ -275,6 +275,7 @@
 - [1414. 和为 K 的最少斐波那契数字数目](https://wanliming.notion.site/1414-K-207a00b6635c4e66a36b3dab28024bcf)
 
 ### 【数学】
+- [1523. 在区间范围内统计奇数数目](https://www.notion.so/wanliming/1523-2437a2eeb20448e2803686f896d1e1d4)
 - [1925. 统计平方和三元组的数目](https://www.notion.so/wanliming/1925-b35d94c89daa4bc3b3c0f4aee480e97a)
 - [2119. 反转两次的数字](https://www.notion.so/wanliming/2119-66ee17ca48e04206a1b11d19a3cbe3b6)
 - [1952. 三除数](https://www.notion.so/wanliming/1952-ca28bc736d484e82a681212296a567df)
