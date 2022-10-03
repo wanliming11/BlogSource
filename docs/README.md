@@ -21,6 +21,6 @@ footer: MIT Licensed | Copyright © 2019-present MurlocWan
 
 ## [架构设计](/MurlocOne/Design/)
 
-## [团队成长](/MurlocOne/Team/)
+## [认知](/MurlocOne/Acknowledge/)
 
 ## [智能化](/MurlocOne/Intelligent/)
