@@ -12,16 +12,15 @@ heroText: Welcome to the world of UncleWan!
 #   details:  
 # - title: 支持搜索
 #   details:  
-sidebar: true
+sidebar: false
 layout: SpecialLayout
 footer: MIT Licensed | Copyright © 2019-present MurlocWan
 --- -->
 
-
 ## [基本功](/MurlocOne/Base/)
 
-## [团队与个人成长](/MurlocOne/Team/)
+## [架构设计](/MurlocOne/Design/)
 
-## [设计](/MurlocOne/Design/)
+## [团队成长](/MurlocOne/Team/)
 
-## [项目](/MurlocOne/PM/)
+## [智能化](/MurlocOne/Intelligent/)
