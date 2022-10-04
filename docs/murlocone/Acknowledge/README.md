@@ -1,5 +1,7 @@
-# 团队与个人成长
+# 认知成长
 
 ## 1. 个人认知
-- [个人认知复盘](https://www.notion.so/wanliming/06764a0b42534416a10d30a172c38324)
+- [知识与智慧](https://wanliming.notion.site/2a7ecc9d80a84832a29a4a4a78dd431a)
 
+
+## 2. 管理认知
