@@ -13,6 +13,7 @@
 - [11. 盛最多水的容器](https://www.notion.so/wanliming/LeetCode-11-63a691b8288c43b3b330da57de697e02)
 
 ### 1.3 字符串
+- [2309. 兼具大小写的最好英文字母](https://www.notion.so/wanliming/2309-50ebf23c5ea04cf2ac93719cb13f2a03)
 - [1694. 重新格式化电话号码](https://www.notion.so/wanliming/1694-579d4bd88d7842f683991c77886be50c)
 - [1678. 设计 Goal 解析器](https://www.notion.so/wanliming/1678-Goal-8838af088e484900be6f40dc4808130f)
 - [面试题 01.09. 字符串轮转](https://www.notion.so/wanliming/01-09-530df3c0902144ac93db4849e131bab8)
