@@ -112,6 +112,7 @@
 - [206. 反转链表](https://wanliming.notion.site/206-0b3278d724b842fda13c344b1f9c727c)
 
 ### 1.6 数组
+- [1385. 两个数组间的距离值](https://wanliming.notion.site/1385-ff24b71b22b04e6398f34c8ed3d2c680)
 - [1365. 有多少小于当前数字的数字](https://www.notion.so/wanliming/1365-4c867f7530bb432abd8ca916f5cb814e)
 - [1920. 基于排列构建数组](https://www.notion.so/wanliming/1920-24f975116aad45c990f7d7c999ef0651)
 - [1652. 拆炸弹](https://www.notion.so/wanliming/1652-60ea130b3c584c008bc0bad090e2a91b)
