@@ -13,6 +13,7 @@
 - [11. 盛最多水的容器](https://www.notion.so/wanliming/LeetCode-11-63a691b8288c43b3b330da57de697e02)
 
 ### 1.3 字符串
+- [1790. 仅执行一次字符串交换能否使两个字符串相等](https://wanliming.notion.site/1790-4b5b4e83618f4b8c85430a46574c629a)
 - [2169. 得到 0 的操作数](https://wanliming.notion.site/2169-0-9020aa6108de4db9beeab067de8f2d3a)
 - [2309. 兼具大小写的最好英文字母](https://www.notion.so/wanliming/2309-50ebf23c5ea04cf2ac93719cb13f2a03)
 - [1694. 重新格式化电话号码](https://www.notion.so/wanliming/1694-579d4bd88d7842f683991c77886be50c)
