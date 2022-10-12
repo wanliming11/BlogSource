@@ -393,6 +393,7 @@
 ### 1.14 链表
 
 ### 1.15 数据库
+- [584. 寻找用户推荐人](https://wanliming.notion.site/584-ece63635b1774867a4ba8ec247e2eb96)
 - [1141. 查询近30天活跃用户数](https://wanliming.notion.site/1141-30-910be8f1d22447d29ae27cad8f6606c8)
 - [620. 有趣的电影](https://www.notion.so/wanliming/620-ff52b0d67dd547b3bb6f09722d94d6f0)
 
