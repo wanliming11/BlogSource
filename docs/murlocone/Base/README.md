@@ -116,6 +116,7 @@
 - [206. 反转链表](https://wanliming.notion.site/206-0b3278d724b842fda13c344b1f9c727c)
 
 ### 1.6 数组
+- [997. 找到小镇的法官](https://wanliming.notion.site/997-250e9b6f85424de59c791cffe2b026fd)
 - [448. 找到所有数组中消失的数字](https://wanliming.notion.site/448-3c67f7758d8b453ca7808ee090a9df67)
 - [566. 重塑矩阵](https://wanliming.notion.site/566-adee8a8f648a40dca2a38ac8ee21ee86)
 - [剑指 Offer 21. 调整数组顺序使奇数位于偶数前面](https://wanliming.notion.site/Offer-21-ff5ef5d2e43d444aa12be0295bd25c86)
