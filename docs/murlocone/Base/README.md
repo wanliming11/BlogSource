@@ -287,6 +287,7 @@
 - [1414. 和为 K 的最少斐波那契数字数目](https://wanliming.notion.site/1414-K-207a00b6635c4e66a36b3dab28024bcf)
 
 ### 【数学】
+- [1837. K 进制表示下的各位数字总和](https://wanliming.notion.site/1837-K-624ebdb1bb054736a9dce730fe0c31cb)
 - [441. 排列硬币](https://wanliming.notion.site/441-eb8ec6cb28d94a08b22d8f3ae18bcd5a)
 - [1523. 在区间范围内统计奇数数目](https://www.notion.so/wanliming/1523-2437a2eeb20448e2803686f896d1e1d4)
 - [1925. 统计平方和三元组的数目](https://www.notion.so/wanliming/1925-b35d94c89daa4bc3b3c0f4aee480e97a)
