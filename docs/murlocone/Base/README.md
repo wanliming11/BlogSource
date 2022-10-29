@@ -460,6 +460,3 @@
 ## 5. Shell
 - [193. 有效电话号码](https://wanli193. 有效电话号码ming.notion.site/193-11214bd8143247b98b651c8f82ea3fef)
 
-## 5. GrowUp
-### 5.1 
-- [时间的尽头](https://www.notion.so/wanliming/23ead907c0234a7dbab3240a4f27fbea)
