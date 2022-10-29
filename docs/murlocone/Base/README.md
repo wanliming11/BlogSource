@@ -457,6 +457,9 @@
 - [8. 字符串转换整数 (atoi)](https://www.notion.so/wanliming/8-atoi-b1e2b6364bc540a6a729272876557ed1)
 - [50. Pow(x, n)](https://wanliming.notion.site/50-Pow-x-n-342daf136cb84d4497d97e642eaa78ff)
 
+## 5. Shell
+- [193. 有效电话号码](https://wanli193. 有效电话号码ming.notion.site/193-11214bd8143247b98b651c8f82ea3fef)
+
 ## 5. GrowUp
 ### 5.1 
 - [时间的尽头](https://www.notion.so/wanliming/23ead907c0234a7dbab3240a4f27fbea)
