@@ -405,6 +405,7 @@
 ### 1.14 链表
 
 ### 1.15 数据库
+- [1179. 重新格式化部门表](https://wanliming.notion.site/1179-98b51d331a2f4c019e99d49ba20319b6)
 - [596. 超过5名学生的课](https://wanliming.notion.site/596-5-e9918916292b4141bc1889afa546b8b6)
 - [584. 寻找用户推荐人](https://wanliming.notion.site/584-ece63635b1774867a4ba8ec247e2eb96)
 - [1141. 查询近30天活跃用户数](https://wanliming.notion.site/1141-30-910be8f1d22447d29ae27cad8f6606c8)
