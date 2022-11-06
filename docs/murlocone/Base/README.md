@@ -13,6 +13,7 @@
 - [11. 盛最多水的容器](https://www.notion.so/wanliming/LeetCode-11-63a691b8288c43b3b330da57de697e02)
 
 ### 1.3 字符串
+- [1078. Bigram 分词](https://wanliming.notion.site/1078-Bigram-e28415c224d240078a72260c3af3cd73)
 - [1816. 截断句子](https://wanliming.notion.site/1816-37a736f5fea24cadb1426b74fb39a263)
 - [1668. 最大重复子字符串](https://wanliming.notion.site/1668-f121270c833c494298e4db7c4de93c38)
 - [1662. 检查两个字符串数组是否相等](https://wanliming.notion.site/1662-ee57976464d7446d85159cbc18ff2a80)
