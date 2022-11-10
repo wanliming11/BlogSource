@@ -13,6 +13,7 @@
 - [11. 盛最多水的容器](https://www.notion.so/wanliming/LeetCode-11-63a691b8288c43b3b330da57de697e02)
 
 ### 1.3 字符串
+- [剑指 Offer II 032. 有效的变位词](https://wanliming.notion.site/Offer-II-032-d8eb344aad1b405e905ac8e24aa7fc6f)
 - [剑指 Offer II 018. 有效的回文](https://wanliming.notion.site/Offer-II-018-7cc768107c904203a7d8345d0110dd92)
 - [1078. Bigram 分词](https://wanliming.notion.site/1078-Bigram-e28415c224d240078a72260c3af3cd73)
 - [1816. 截断句子](https://wanliming.notion.site/1816-37a736f5fea24cadb1426b74fb39a263)
