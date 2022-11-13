@@ -126,6 +126,7 @@
 - [206. 反转链表](https://wanliming.notion.site/206-0b3278d724b842fda13c344b1f9c727c)
 
 ### 1.6 数组
+- [1909. 删除一个元素使数组严格递增](https://wanliming.notion.site/1909-efcefc4077a548759403d98f5628648d)
 - [1512. 好数对的数目](https://wanliming.notion.site/1512-726e523ec10b43c5b5a6d04c88ada64f)
 - [1822. 数组元素积的符号](https://wanliming.notion.site/1822-d7b206303995425fb762b4d376fbd3d8)
 - [997. 找到小镇的法官](https://wanliming.notion.site/997-250e9b6f85424de59c791cffe2b026fd)
