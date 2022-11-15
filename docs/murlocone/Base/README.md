@@ -108,6 +108,7 @@
 - [434. 字符串中的单词数](https://www.notion.so/wanliming/434-b779bf6c637c4c6185a5ef58d0093b60)
 
 ### 1.4  双指针
+- [349. 两个数组的交集](https://wanliming.notion.site/349-ea3f1ed39fb74db19e0c660cd01239a9)
 - [1089. 复写零](https://wanliming.notion.site/1089-1b52136312514d08bae35a6d868f75ec)
 - [15. 三数之和](https://www.notion.so/wanliming/LeetCode-15-c83e89efd0e54657a3733088154b01cd)
 - [16. 最接近的三数之和](https://www.notion.so/wanliming/16-92363d28f4424b1799500af162f8f843)
