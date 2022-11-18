@@ -13,6 +13,7 @@
 - [11. 盛最多水的容器](https://www.notion.so/wanliming/LeetCode-11-63a691b8288c43b3b330da57de697e02)
 
 ### 1.3 字符串
+- [1528. 重新排列字符串](https://wanliming.notion.site/1528-3aaff58ba1da4f1c8a69714abc802643)
 - [1704. 判断字符串的两半是否相似](https://wanliming.notion.site/1704-2427a0f18a734278ac6365d7f5d0f28e)
 - [剑指 Offer II 032. 有效的变位词](https://wanliming.notion.site/Offer-II-032-d8eb344aad1b405e905ac8e24aa7fc6f)
 - [剑指 Offer II 018. 有效的回文](https://wanliming.notion.site/Offer-II-018-7cc768107c904203a7d8345d0110dd92)
