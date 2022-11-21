@@ -433,6 +433,9 @@
 - [268. 丢失的数字](https://wanliming.notion.site/268-7c9cf777a2b04e8ba611a0e6bdc65f88)
 - [476. 数字的补数](https://wanliming.notion.site/476-1053571595d64315a184604e64cabe28)
 
+### 1.17 图
+- [1791. 找出星型图的中心节点](https://wanliming.notion.site/1791-010a506ad2ba4f0d8c6efcbcec0f5972)
+
 ## 2. Design
 ### 2.1 设计字典
  - [705. 设计哈希集合](https://www.notion.so/wanliming/705-f8043f3ea0bc412b818c9287c01b8552)
