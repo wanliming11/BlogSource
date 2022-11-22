@@ -129,6 +129,7 @@
 - [206. 反转链表](https://wanliming.notion.site/206-0b3278d724b842fda13c344b1f9c727c)
 
 ### 1.6 数组
+- [496. 下一个更大元素 I](https://wanliming.notion.site/496-I-2c8cfbd285b54cd885bd22b9f217ba13)
 - [697. 数组的度](https://wanliming.notion.site/697-990704f4e0554f778dcee53ded53a433)
 - [2363. 合并相似的物品](https://wanliming.notion.site/2363-bd09f19fb9f14a39a4acd57d668869fb)
 - [1909. 删除一个元素使数组严格递增](https://wanliming.notion.site/1909-efcefc4077a548759403d98f5628648d)
