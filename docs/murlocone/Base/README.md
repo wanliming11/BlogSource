@@ -13,6 +13,7 @@
 - [11. 盛最多水的容器](https://www.notion.so/wanliming/LeetCode-11-63a691b8288c43b3b330da57de697e02)
 
 ### 1.3 字符串
+- [面试题 01.01. 判定字符是否唯一](https://wanliming.notion.site/01-01-3f2bf0a60a3e4c2bbb79acfa5d849c89)
 - [2325. 解密消息](https://wanliming.notion.site/2325-fc7b1570dc864251bbbd9c8bd0175423)
 - [2138. 将字符串拆分为若干长度为 k 的组](https://wanliming.notion.site/2138-k-ca674a3dd7ee44d7a33201f499168043)
 - [1812. 判断国际象棋棋盘中一个格子的颜色](https://wanliming.notion.site/1812-e943506ea0c14acd933a9efe319e9140)
