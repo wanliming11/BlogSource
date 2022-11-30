@@ -7,3 +7,4 @@
 - [如何和自己和解？](https://wanliming.notion.site/8c64dfdae27b4d2faa4f308c8e347fc9)
 
 ## 2. 管理认知
+- [优秀的技术管理者](https://wanliming.notion.site/d6fd8f83da8f413592c176173e96eb95)
