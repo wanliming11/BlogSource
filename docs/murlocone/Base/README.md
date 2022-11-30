@@ -134,6 +134,7 @@
 - [206. 反转链表](https://wanliming.notion.site/206-0b3278d724b842fda13c344b1f9c727c)
 
 ### 1.6 数组
+- [LCS 02. 完成一半题目](https://wanliming.notion.site/LCS-02-e60df001916e4d9aa5128fda98cc369c)
 - [1752. 检查数组是否经排序和轮转得到](https://wanliming.notion.site/1752-88ba3da50f2a4e6582fac729ad2c5d51)
 - [496. 下一个更大元素 I](https://wanliming.notion.site/496-I-2c8cfbd285b54cd885bd22b9f217ba13)
 - [697. 数组的度](https://wanliming.notion.site/697-990704f4e0554f778dcee53ded53a433)
