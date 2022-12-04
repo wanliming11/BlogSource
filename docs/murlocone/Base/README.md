@@ -13,6 +13,7 @@
 - [11. 盛最多水的容器](https://www.notion.so/wanliming/LeetCode-11-63a691b8288c43b3b330da57de697e02)
 
 ### 1.3 字符串
+- [2224. 转化时间需要的最少操作数](https://wanliming.notion.site/2224-aa3b0a8ef71947b187a0799c14f8f2ad)
 - [1796. 字符串中第二大的数字](https://wanliming.notion.site/1796-91d80623e163488b94f4f9a409f1d458)
 - [1758. 生成交替二进制字符串的最少操作数](https://wanliming.notion.site/1758-71f1e8495edc43cc84b43435b8b719f1)
 - [面试题 01.01. 判定字符是否唯一](https://wanliming.notion.site/01-01-3f2bf0a60a3e4c2bbb79acfa5d849c89)
