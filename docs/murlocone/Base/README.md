@@ -137,6 +137,7 @@
 - [206. 反转链表](https://wanliming.notion.site/206-0b3278d724b842fda13c344b1f9c727c)
 
 ### 1.6 数组
+- [1232. 缀点成线](https://wanliming.notion.site/1232-7211387312354e2aa6344b8a9b6456cd)
 - [LCP 61. 气温变化趋势](https://wanliming.notion.site/LCP-61-eba9aa3bcba04e58b5e9b91ad2a420c4)
 - [1779. 找到最近的有相同 X 或 Y 坐标的点](https://wanliming.notion.site/1779-X-Y-f2a0d452f74d46debeed5dd7beb847fd)
 - [LCS 02. 完成一半题目](https://wanliming.notion.site/LCS-02-e60df001916e4d9aa5128fda98cc369c)
