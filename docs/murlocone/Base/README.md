@@ -391,6 +391,7 @@
 - [150. 逆波兰表达式求值](https://www.notion.so/wanliming/150-58f7cd63df8f453c9e304bf3aa3fac8f)
 
 ### 1.11 链表
+- [剑指 Offer 24. 反转链表](https://www.notion.so/wanliming/Offer-24-b9abb93476ae4f9980d03079cea92be5)
 - [21. 合并两个有序链表](https://www.notion.so/wanliming/21-699bfaf04b004736abcfec57b19ffc71)
 - [82. 删除排序链表中的重复元素 II](https://www.notion.so/wanliming/82-II-8fa4ea563ba34872ab844615b399632a)
 - [83. 删除排序链表中的重复元素](https://www.notion.so/wanliming/83-af02ad1af5054eb683ea917133f286ce)
