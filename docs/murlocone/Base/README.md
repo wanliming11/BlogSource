@@ -139,6 +139,7 @@
 - [206. 反转链表](https://wanliming.notion.site/206-0b3278d724b842fda13c344b1f9c727c)
 
 ### 1.6 数组
+- [347. 前 K 个高频元素](https://wanliming.notion.site/347-K-12336195dfb84689996bca051338a3ad)
 - [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://wanliming.notion.site/Offer-53-I-I-6bfc96025cfa45f2baacb914c46cadfe)
 - [2089. 找出数组排序后的目标下标](https://wanliming.notion.site/2089-9a2c46a4401a49ab8fb0841f3f5740e0)
 - [66. 加一](https://wanliming.notion.site/66-50e383b00bbc42abade1edfc60da9042)
