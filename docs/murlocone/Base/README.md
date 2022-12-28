@@ -321,6 +321,7 @@
 - [429. N 叉树的层序遍历](https://wanliming.notion.site/429-N-2cd6fc7e91f04c9ca458f982ea48df43)
 
 ### 【贪心】
+- [2259. 移除指定数字得到的最大结果](https://wanliming.notion.site/2259-4cabfbd8552e4d3cb5dcf8901af65834)
 - [1827. 最少操作使数组递增](https://wanliming.notion.site/1827-76a9223979ae42f7a974064fe6dd5f69)
 - [1403. 非递增顺序的最小子序列](https://www.notion.so/wanliming/1403-0a22afd09c794e27b26ca728aab81ca5)
 - [2027. 转换字符串的最少操作次数](https://wanliming.notion.site/2027-2fc20409bc064743ad909a51d43aba5d)
