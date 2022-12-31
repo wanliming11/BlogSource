@@ -140,6 +140,7 @@
 - [206. 反转链表](https://wanliming.notion.site/206-0b3278d724b842fda13c344b1f9c727c)
 
 ### 1.6 数组
+- [2037. 使每位学生都有座位的最少移动次数](https://wanliming.notion.site/2037-e8c2c7d5721b4cb889484fb0f48716e8)
 - [1897. 重新分配字符使所有字符串都相等](https://wanliming.notion.site/1897-d23e383d082a4a18adf02a77c3af1233)
 - [2032. 至少在两个数组中出现的值](https://wanliming.notion.site/2032-5005005f1e074ed48639a9bceb5647b2)
 - [347. 前 K 个高频元素](https://wanliming.notion.site/347-K-12336195dfb84689996bca051338a3ad)
