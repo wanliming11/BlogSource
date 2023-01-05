@@ -335,6 +335,7 @@
 - [1414. 和为 K 的最少斐波那契数字数目](https://wanliming.notion.site/1414-K-207a00b6635c4e66a36b3dab28024bcf)
 
 ### 【数学】
+- [面试题 16.11. 跳水板](https://wanliming.notion.site/16-11-d8c21e72fff145cc95b504c1f42664b4)
 - [492. 构造矩形](https://wanliming.notion.site/492-7e1a970d4e3c44cbbb66a9487fa1feac)
 - [1837. K 进制表示下的各位数字总和](https://wanliming.notion.site/1837-K-624ebdb1bb054736a9dce730fe0c31cb)
 - [441. 排列硬币](https://wanliming.notion.site/441-eb8ec6cb28d94a08b22d8f3ae18bcd5a)
