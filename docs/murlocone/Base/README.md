@@ -453,6 +453,7 @@
 - [993. 二叉树的堂兄弟节点](https://www.notion.so/wanliming/993-46ea9298381c4511adad809a38c451b6)
 - [2236. 判断根结点是否等于子结点之和](https://wanliming.notion.site/2236-9c1fb8043d114a93b7ee3e77e8cfb080)
 - [剑指 Offer II 056. 二叉搜索树中两个节点之和](https://wanliming.notion.site/Offer-II-056-43b1af61a0504cd789c5fff4a29a7066)
+- [2331. 计算布尔二叉树的值](https://wanliming.notion.site/2331-78de7f5eae4c4daaa0fee72587939c92)
 
 ### 1.14 链表
 
