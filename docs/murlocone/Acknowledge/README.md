@@ -6,6 +6,7 @@
 - [人生每一天追求的是什么？](https://wanliming.notion.site/4bcaaa5a819946c0a96e28910d185118)
 - [如何和自己和解？](https://wanliming.notion.site/8c64dfdae27b4d2faa4f308c8e347fc9)
 - [AI 能帮助我做什么？](https://wanliming.notion.site/AI-66991c1c6db149508152bbc4cad992c1)
+- [谈谈如何学习源码？](https://wanliming.notion.site/1e6c9e51bcac49bcb18c3147483ef6ef)
 
 ## 2. 管理认知
 - [优秀的技术管理者](https://wanliming.notion.site/d6fd8f83da8f413592c176173e96eb95)
