@@ -13,6 +13,7 @@
 - [11. 盛最多水的容器](https://www.notion.so/wanliming/LeetCode-11-63a691b8288c43b3b330da57de697e02)
 
 ### 1.3 字符串
+- [剑指 Offer 57. 和为s的两个数字](https://wanliming.notion.site/Offer-57-s-06b7aeccf0dc42fab82209683cfb9635)
 - [1817. 查找用户活跃分钟数](https://wanliming.notion.site/1817-99fb470d930248d1bf6e9edb41537564)
 - [2299. 强密码检验器 II](https://wanliming.notion.site/2299-II-44be96295f4d47e686ab66bb2bcc7fd5)
 - [1807. 替换字符串中的括号内容](https://wanliming.notion.site/1807-7734bb4a5747401482f844a3e2850ec1)
