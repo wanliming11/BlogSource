@@ -393,6 +393,7 @@
 - [232. 用栈实现队列](https://www.notion.so/wanliming/232-7aa4dfb10d814ea7819fa5ed07e87a4d)
 
 ### 1.9 动态规划
+- [剑指 Offer 47. 礼物的最大价值](https://wanliming.notion.site/Offer-47-b4a863fa76d945df91a1a3f95b76d96a)
 - [5. 最长回文子串](https://wanliming.notion.site/5-88fdd9da656f412f8521d88ea1994d86)
 - [面试题 08.01. 三步问题](https://wanliming.notion.site/08-01-730ea5a14cb049018562966991fbe4c7)
 - [面试题 16.17. 连续数列](https://www.notion.so/wanliming/16-17-32a630d6847d44d2b0b42059fec6e46e)
