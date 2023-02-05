@@ -13,6 +13,7 @@
 - [11. 盛最多水的容器](https://www.notion.so/wanliming/LeetCode-11-63a691b8288c43b3b330da57de697e02)
 
 ### 1.3 字符串
+- [345. 反转字符串中的元音字母](https://wanliming.notion.site/345-4391a4ce885f4d3d83a1267db2b17e8a)
 - [面试题 01.03. URL化](https://wanliming.notion.site/01-03-URL-d22ac5e234574d639756d50ce1eca7ed)
 - [1576. 替换所有的问号](https://wanliming.notion.site/1576-675a5c3af589463fa592b28c91ba9fa0)
 - [139. 单词拆分](https://wanliming.notion.site/139-33612bf6c5b042db8ebc407ec5e4e506)
