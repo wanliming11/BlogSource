@@ -23,4 +23,3 @@ footer: MIT Licensed | Copyright © 2019-present MurlocWan
 
 ## [认知](/MurlocOne/Acknowledge/)
 
-## [智能化](/MurlocOne/Intelligent/)
