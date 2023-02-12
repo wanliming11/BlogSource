@@ -346,6 +346,7 @@
 - [429. N 叉树的层序遍历](https://wanliming.notion.site/429-N-2cd6fc7e91f04c9ca458f982ea48df43)
 
 ### 【贪心】
+- [2384. 最大回文数字](https://wanliming.notion.site/2384-6c5fd54215f54cd381cd64b9551d8273)
 - [2335. 装满杯子需要的最短总时长](https://wanliming.notion.site/2335-ed8b000257f541b682144c5aa18beea8)
 - [2259. 移除指定数字得到的最大结果](https://wanliming.notion.site/2259-4cabfbd8552e4d3cb5dcf8901af65834)
 - [1827. 最少操作使数组递增](https://wanliming.notion.site/1827-76a9223979ae42f7a974064fe6dd5f69)
