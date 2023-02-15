@@ -11,6 +11,7 @@
 - [11. 盛最多水的容器](https://www.notion.so/wanliming/LeetCode-11-63a691b8288c43b3b330da57de697e02)
 
 ### 1.3 字符串
+- [1370. 上升下降字符串](https://wanliming.notion.site/1370-3322ab454d3949bc940b04cc4254a0a0)
 - [2490. 回环句](https://wanliming.notion.site/2490-ced7bdbe8b484c2caadabb83f2ee57e6)
 - [2273. 移除字母异位词后的结果数组](https://wanliming.notion.site/2273-cddd55964ed3411195609bfb6dc0958d)
 - [345. 反转字符串中的元音字母](https://wanliming.notion.site/345-4391a4ce885f4d3d83a1267db2b17e8a)
