@@ -158,6 +158,7 @@
 - [206. 反转链表](https://wanliming.notion.site/206-0b3278d724b842fda13c344b1f9c727c)
 
 ### 1.6 数组
+- [2341. 数组能形成多少数对](https://wanliming.notion.site/2341-50f7d86ff6e440bca6e9f79eb92148a1)
 - [2293. 极大极小游戏](https://wanliming.notion.site/2293-eb9bcaccd73046288ea365e6ba7bbc77)
 - [2319. 判断矩阵是否是一个 X 矩阵](https://wanliming.notion.site/2319-X-d860ef58ad3c49acb1014b377f32076d)
 - [2303. 计算应缴税款总额](https://wanliming.notion.site/2303-e9e4c178c19a42d7b19d832740e01c35)
