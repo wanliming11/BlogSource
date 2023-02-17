@@ -158,6 +158,7 @@
 - [206. 反转链表](https://wanliming.notion.site/206-0b3278d724b842fda13c344b1f9c727c)
 
 ### 1.6 数组
+- [2553. 分割数组中数字的数位](https://wanliming.notion.site/2553-cf20bb31a7024ef5bce66270ec4f9769)
 - [2341. 数组能形成多少数对](https://wanliming.notion.site/2341-50f7d86ff6e440bca6e9f79eb92148a1)
 - [2293. 极大极小游戏](https://wanliming.notion.site/2293-eb9bcaccd73046288ea365e6ba7bbc77)
 - [2319. 判断矩阵是否是一个 X 矩阵](https://wanliming.notion.site/2319-X-d860ef58ad3c49acb1014b377f32076d)
