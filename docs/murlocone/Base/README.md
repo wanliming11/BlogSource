@@ -158,6 +158,7 @@
 - [206. 反转链表](https://wanliming.notion.site/206-0b3278d724b842fda13c344b1f9c727c)
 
 ### 1.6 数组
+- [1818. 绝对差值和](https://wanliming.notion.site/1818-bae5b9a2202d42b292ec9e004b80b997)
 - [1351. 统计有序矩阵中的负数](https://wanliming.notion.site/1351-018ff3f28aa8437b9b8bae1b093b5e34)
 - [2553. 分割数组中数字的数位](https://wanliming.notion.site/2553-cf20bb31a7024ef5bce66270ec4f9769)
 - [2341. 数组能形成多少数对](https://wanliming.notion.site/2341-50f7d86ff6e440bca6e9f79eb92148a1)
