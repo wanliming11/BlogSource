@@ -12,3 +12,4 @@
 - [优秀的技术管理者](https://wanliming.notion.site/d6fd8f83da8f413592c176173e96eb95)
 - [谈谈工作划繁为简](https://wanliming.notion.site/374663ad60a44ee080b01d635adfd1c8)
 - [你的工作是否那么无聊？](https://wanliming.notion.site/4d7f7b8f70024e49832652c32297d797)
+- [如何指引一个新员工适应团队？](https://wanliming.notion.site/08c1dc5ea7f146cb81945b8d7f8f2760)
