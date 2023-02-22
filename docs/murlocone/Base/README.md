@@ -360,6 +360,7 @@
 - [1414. 和为 K 的最少斐波那契数字数目](https://wanliming.notion.site/1414-K-207a00b6635c4e66a36b3dab28024bcf)
 
 ### 【数学】
+- [1716. 计算力扣银行的钱](https://wanliming.notion.site/1716-153290b350704a19a92fa54bdd4cef82)
 - [剑指 Offer II 072. 求平方根](https://wanliming.notion.site/Offer-II-072-d8007dfed5ad4474bc80c2f63726a152)
 - [面试题 16.11. 跳水板](https://wanliming.notion.site/16-11-d8c21e72fff145cc95b504c1f42664b4)
 - [492. 构造矩形](https://wanliming.notion.site/492-7e1a970d4e3c44cbbb66a9487fa1feac)
