@@ -161,6 +161,7 @@
 - [206. 反转链表](https://wanliming.notion.site/206-0b3278d724b842fda13c344b1f9c727c)
 
 ### 1.6 数组
+- [2567. 修改两个元素的最小分数](https://wanliming.notion.site/2567-cbb3e50f236d4397a1e3d9421d153569)
 - [2357. 使数组中所有元素都等于零](https://wanliming.notion.site/2357-0194802a707e48a6a0303ca99e431800)
 - [2347. 最好的扑克手牌](https://wanliming.notion.site/2347-795eca11cd0341a0a97ba18716a64751)
 - [1818. 绝对差值和](https://wanliming.notion.site/1818-bae5b9a2202d42b292ec9e004b80b997)
