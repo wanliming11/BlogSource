@@ -161,6 +161,7 @@
 - [206. 反转链表](https://wanliming.notion.site/206-0b3278d724b842fda13c344b1f9c727c)
 
 ### 1.6 数组
+- [414. 第三大的数](https://wanliming.notion.site/414-82ddea2b430f4b8badf2f00b58f9f6fe)
 - [2373. 矩阵中的局部最大值](https://wanliming.notion.site/2373-4d9f8554503142f3a58c8220a219d9fd)
 - [2567. 修改两个元素的最小分数](https://wanliming.notion.site/2567-cbb3e50f236d4397a1e3d9421d153569)
 - [2357. 使数组中所有元素都等于零](https://wanliming.notion.site/2357-0194802a707e48a6a0303ca99e431800)
