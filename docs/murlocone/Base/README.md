@@ -140,6 +140,7 @@
 - [434. 字符串中的单词数](https://www.notion.so/wanliming/434-b779bf6c637c4c6185a5ef58d0093b60)
 
 ### 1.4  双指针
+- [2562. 找出数组的串联值](https://wanliming.notion.site/2562-474cc85bb28a4819994b4dfdfda6b264)
 - [143. 重排链表](https://wanliming.notion.site/143-593d936bd1d742f0908bdf7306fff5f7)
 - [1768. 交替合并字符串](https://wanliming.notion.site/1768-c5a36d5d78f54567aec9def2ce188b00)
 - [349. 两个数组的交集](https://wanliming.notion.site/349-ea3f1ed39fb74db19e0c660cd01239a9)
