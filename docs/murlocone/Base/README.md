@@ -9,6 +9,7 @@
 ### 1.2 滑动窗口
 - [字符串数据排列](https://www.notion.so/wanliming/567-07e476f882574bf099d2019d3e833107)
 - [11. 盛最多水的容器](https://www.notion.so/wanliming/LeetCode-11-63a691b8288c43b3b330da57de697e02)
+- [643. 子数组最大平均数 I](https://wanliming.notion.site/643-I-901c8cc0c8e5461aaa7720af4c808663)
 
 ### 1.3 字符串
 - [524. 通过删除字母匹配到字典里最长单词](https://wanliming.notion.site/524-5ea714444bd34d07bf12c3ca4f636860)
