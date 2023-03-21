@@ -426,6 +426,7 @@
 - [232. 用栈实现队列](https://www.notion.so/wanliming/232-7aa4dfb10d814ea7819fa5ed07e87a4d)
 
 ### 1.9 动态规划
+- [剑指 Offer II 088. 爬楼梯的最少成本](https://wanliming.notion.site/Offer-II-088-d07c05730d654a61bb01841d96a13a1c)
 - [面试题 17.16. 按摩师](https://wanliming.notion.site/17-16-c15bed8059f74764942037d6d39740f9)
 - [509. 斐波那契数](https://wanliming.notion.site/509-0314551cc1534e10b80ac6a636ad1ab4)
 - [剑指 Offer 47. 礼物的最大价值](https://wanliming.notion.site/Offer-47-b4a863fa76d945df91a1a3f95b76d96a)
