@@ -167,6 +167,7 @@
 - [206. 反转链表](https://wanliming.notion.site/206-0b3278d724b842fda13c344b1f9c727c)
 
 ### 1.6 数组
+- [2574. 左右元素和的差值](https://wanliming.notion.site/2574-5abc4d0ebb884d23a17f249418330e62)
 - [463. 岛屿的周长](https://wanliming.notion.site/463-66c1043f9df14fe5a1a8e972a571d270)
 - [414. 第三大的数](https://wanliming.notion.site/414-82ddea2b430f4b8badf2f00b58f9f6fe)
 - [2373. 矩阵中的局部最大值](https://wanliming.notion.site/2373-4d9f8554503142f3a58c8220a219d9fd)
