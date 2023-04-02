@@ -13,6 +13,7 @@
 - [643. 子数组最大平均数 I](https://wanliming.notion.site/643-I-901c8cc0c8e5461aaa7720af4c808663)
 
 ### 1.3 字符串
+- [2446. 判断两个事件是否存在冲突](https://wanliming.notion.site/2446-9f7977f927974e44b3d79a5472de0981)
 - [2418. 按身高排序](https://wanliming.notion.site/2418-c3b57df21a024f989dc39fc0b7388431)
 - [709. 转换成小写字母](https://wanliming.notion.site/709-7f8fa69b1202434c813d53ab633011e0)
 - [524. 通过删除字母匹配到字典里最长单词](https://wanliming.notion.site/524-5ea714444bd34d07bf12c3ca4f636860)
