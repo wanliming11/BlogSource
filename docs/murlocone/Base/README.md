@@ -472,6 +472,7 @@
 - [150. 逆波兰表达式求值](https://www.notion.so/wanliming/150-58f7cd63df8f453c9e304bf3aa3fac8f)
 
 ### 1.11 链表
+- [剑指 Offer 18. 删除链表的节点](https://wanliming.notion.site/Offer-18-7f5b7eb7353d408db652083c9d85d498)
 - [面试题 02.01. 移除重复节点](https://wanliming.notion.site/02-01-5f0ec2ba3f194298b7b00f97c3d38cd7)
 - [剑指 Offer 22. 链表中倒数第k个节点](https://wanliming.notion.site/Offer-22-k-4ce4e5aacf434786b4b339ae6e6861b6)
 - [剑指 Offer 24. 反转链表](https://www.notion.so/wanliming/Offer-24-b9abb93476ae4f9980d03079cea92be5)
