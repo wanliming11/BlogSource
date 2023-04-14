@@ -13,6 +13,7 @@
 - [643. 子数组最大平均数 I](https://wanliming.notion.site/643-I-901c8cc0c8e5461aaa7720af4c808663)
 
 ### 1.3 字符串
+- [2068. 检查两个字符串是否几乎相等](https://wanliming.notion.site/2068-5444835308a94529b1cc3e9780e42943)
 - [剑指 Offer 05. 替换空格](https://wanliming.notion.site/Offer-05-2f8cd696dc4645e0af21f73b07696936)
 - [2446. 判断两个事件是否存在冲突](https://wanliming.notion.site/2446-9f7977f927974e44b3d79a5472de0981)
 - [2418. 按身高排序](https://wanliming.notion.site/2418-c3b57df21a024f989dc39fc0b7388431)
