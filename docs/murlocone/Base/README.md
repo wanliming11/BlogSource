@@ -13,6 +13,7 @@
 - [643. 子数组最大平均数 I](https://wanliming.notion.site/643-I-901c8cc0c8e5461aaa7720af4c808663)
 
 ### 1.3 字符串
+- [2248. 多个数组求交集](https://wanliming.notion.site/2248-7c57c672cd4b4ba5976f326680165b2e)
 - [2619. 数组原型对象的最后一个元素](https://wanliming.notion.site/2619-da4d6bd4b2c84d638f8d35b7992346ac)
 - [2264. 字符串中最大的 3 位相同数字](https://wanliming.notion.site/2264-3-085ebe8e29524fac9b51b9a68ae67b52)
 - [2068. 检查两个字符串是否几乎相等](https://wanliming.notion.site/2068-5444835308a94529b1cc3e9780e42943)
