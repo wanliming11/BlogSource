@@ -176,6 +176,7 @@
 - [206. 反转链表](https://wanliming.notion.site/206-0b3278d724b842fda13c344b1f9c727c)
 
 ### 1.6 数组
+- [1995. 统计特殊四元组](https://wanliming.notion.site/1995-9d42d5fe9f9943148b4a8bf112b2b478)
 - [2460. 对数组执行操作](https://wanliming.notion.site/2460-b0f848d3cdbd43b2a406041bcfac4a25)
 - [剑指 Offer II 068. 查找插入位置](https://wanliming.notion.site/Offer-II-068-b22081d2174c4be59cbba1d9b439f85c)
 - [面试题 17.04. 消失的数字](https://wanliming.notion.site/17-04-d5dea850f9464ede8c27466d1ba47f68)
