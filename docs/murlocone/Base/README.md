@@ -176,6 +176,7 @@
 - [206. 反转链表](https://wanliming.notion.site/206-0b3278d724b842fda13c344b1f9c727c)
 
 ### 1.6 数组
+- [2053. 数组中第 K 个独一无二的字符串](https://wanliming.notion.site/2053-K-78ba485e5a5c47839561a0096cb26b48)
 - [1995. 统计特殊四元组](https://wanliming.notion.site/1995-9d42d5fe9f9943148b4a8bf112b2b478)
 - [2460. 对数组执行操作](https://wanliming.notion.site/2460-b0f848d3cdbd43b2a406041bcfac4a25)
 - [剑指 Offer II 068. 查找插入位置](https://wanliming.notion.site/Offer-II-068-b22081d2174c4be59cbba1d9b439f85c)
