@@ -399,6 +399,7 @@
 - [1414. 和为 K 的最少斐波那契数字数目](https://wanliming.notion.site/1414-K-207a00b6635c4e66a36b3dab28024bcf)
 
 ### 【数学】
+- [2485. 找出中枢整数](https://wanliming.notion.site/2485-34b84af4324f4057b097fd9e8b08c689)
 - [2469. 温度转换](https://wanliming.notion.site/2469-57c2c80511f144319aec61b132dff1f6)
 - [836. 矩形重叠](https://wanliming.notion.site/836-c313e156b133460a88aa90e534803dde)
 - [326. 3 的幂](https://wanliming.notion.site/326-3-71d58443ae7d40b1ae98350d8535b7c7)
