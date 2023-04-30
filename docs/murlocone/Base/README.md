@@ -176,6 +176,7 @@
 - [206. 反转链表](https://wanliming.notion.site/206-0b3278d724b842fda13c344b1f9c727c)
 
 ### 1.6 数组
+- [2540. 最小公共值](https://wanliming.notion.site/2540-2fc935b84ace41f39bd7ea2df257f9df)
 - [2239. 找到最接近 0 的数字](https://wanliming.notion.site/2239-0-4833c0b41f7b42f1b319ca5deca4f497)
 - [2057. 值相等的最小索引](https://wanliming.notion.site/2057-785dd89807cf4701a6a612db0e44cdb7)
 - [2053. 数组中第 K 个独一无二的字符串](https://wanliming.notion.site/2053-K-78ba485e5a5c47839561a0096cb26b48)
