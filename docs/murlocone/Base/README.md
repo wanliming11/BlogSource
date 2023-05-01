@@ -401,6 +401,7 @@
 - [1414. 和为 K 的最少斐波那契数字数目](https://wanliming.notion.site/1414-K-207a00b6635c4e66a36b3dab28024bcf)
 
 ### 【数学】
+- [2544. 交替数字和](https://wanliming.notion.site/2544-ee20d95c4be249a58cb4fb405a5b05d5)
 - [2652. 倍数求和](https://wanliming.notion.site/2652-05e359ef11994db6ae31366271c81da4)
 - [2485. 找出中枢整数](https://wanliming.notion.site/2485-34b84af4324f4057b097fd9e8b08c689)
 - [2469. 温度转换](https://wanliming.notion.site/2469-57c2c80511f144319aec61b132dff1f6)
