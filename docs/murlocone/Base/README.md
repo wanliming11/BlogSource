@@ -394,6 +394,7 @@
 - [429. N 叉树的层序遍历](https://wanliming.notion.site/429-N-2cd6fc7e91f04c9ca458f982ea48df43)
 
 ### 【贪心】
+- [2566. 替换一个数字后的最大差值](https://wanliming.notion.site/2566-09568f1b612c4e40a6d5f4afc52aa7a2)
 - [2600. K 件物品的最大和](https://wanliming.notion.site/2600-K-dd351df0af354a1ba63d972bca13af76)
 - [2383. 赢得比赛需要的最少训练时长](https://wanliming.notion.site/2383-f08760fcc3a643399bc80e3943a202c0)
 - [1005. K 次取反后最大化的数组和](https://wanliming.notion.site/1005-K-d9425b604ed043139e46e9b4f14c5f45)
