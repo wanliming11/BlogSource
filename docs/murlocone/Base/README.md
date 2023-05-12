@@ -178,6 +178,7 @@
 - [206. 反转链表](https://wanliming.notion.site/206-0b3278d724b842fda13c344b1f9c727c)
 
 ### 1.6 数组
+- [LCP 72. 补给马车](https://wanliming.notion.site/LCP-72-2c94443faf6a4d5fb60de5583344c068)
 - [1502. 判断能否形成等差数列](https://wanliming.notion.site/1502-98d65e4ade744cc18ffda97a95bac719)
 - [2529. 正整数和负整数的最大计数](https://wanliming.notion.site/2529-3f961592eae3456085cdc96c8569f8dc)
 - [2540. 最小公共值](https://wanliming.notion.site/2540-2fc935b84ace41f39bd7ea2df257f9df)
