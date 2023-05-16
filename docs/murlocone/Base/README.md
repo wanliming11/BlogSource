@@ -13,6 +13,7 @@
 - [643. 子数组最大平均数 I](https://wanliming.notion.site/643-I-901c8cc0c8e5461aaa7720af4c808663)
 
 ### 1.3 字符串
+- [1941. 检查是否所有字符出现次数相同](https://wanliming.notion.site/1941-8a36ab1ec165487d975e1c72952002f5)
 - [1859. 将句子排序](https://wanliming.notion.site/1859-7c3ab012c3814edaa6505cc48df8c3f8)
 - [2586. 统计范围内的元音字符串数](https://wanliming.notion.site/2586-5cac03873edf41eea68ba3ed014ceb2d)
 - [剑指 Offer 50. 第一个只出现一次的字符](https://wanliming.notion.site/Offer-50-218b951d9be64a21832a49d64e7a4758)
