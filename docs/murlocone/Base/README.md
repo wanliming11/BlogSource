@@ -616,3 +616,6 @@
 ## 5. Shell
 - [193. 有效电话号码](https://wanli193. 有效电话号码ming.notion.site/193-11214bd8143247b98b651c8f82ea3fef)
 
+## 6. Language
+- [2620. 计数器](https://wanliming.notion.site/2620-f1a1ce98f75f484a98f56fb1527ca4c3)
+
