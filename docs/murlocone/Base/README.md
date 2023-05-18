@@ -154,6 +154,7 @@
 - [434. 字符串中的单词数](https://www.notion.so/wanliming/434-b779bf6c637c4c6185a5ef58d0093b60)
 
 ### 1.4  双指针
+- [剑指 Offer II 006. 排序数组中两个数字之和](https://wanliming.notion.site/Offer-II-006-2569a37100dc4b9390c3fd0b8c418c1d)
 - [面试题 10.01. 合并排序的数组](https://wanliming.notion.site/10-01-f62604e154504beab146dbf4c29dcf7a)
 - [2465. 不同的平均值数目](https://wanliming.notion.site/2465-701cf344798348b8bf15d7f345398135)
 - [剑指 Offer II 023. 两个链表的第一个重合节点](https://wanliming.notion.site/Offer-II-023-71ce6087b7544247a6940ea6ab0a8bb5)
