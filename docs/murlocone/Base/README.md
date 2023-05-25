@@ -414,6 +414,7 @@
 - [1414. 和为 K 的最少斐波那契数字数目](https://wanliming.notion.site/1414-K-207a00b6635c4e66a36b3dab28024bcf)
 
 ### 【数学】
+- [2520. 统计能整除数字的位数](https://wanliming.notion.site/2520-f9e4787f27654d69be8d745b51f94d1f)
 - [面试题 16.01. 交换数字](https://wanliming.notion.site/16-01-622c88ae9b8c470f8f857dfa665c225d)
 - [2413. 最小偶倍数](https://wanliming.notion.site/2413-34c3d7d26347420c970c9f7ea9717608)
 - [2544. 交替数字和](https://wanliming.notion.site/2544-ee20d95c4be249a58cb4fb405a5b05d5)
