@@ -9,6 +9,7 @@
 - [谈谈如何学习源码？](https://wanliming.notion.site/1e6c9e51bcac49bcb18c3147483ef6ef)
 - [谈谈职业](https://wanliming.notion.site/8dc19ac533134be9b2420b8e5420ca22)
 - [Copilot — your copilot for work](https://wanliming.notion.site/Copilot-your-copilot-for-work-20acbca7a76a4674a5cd99212aab1bd2)
+- [谈谈移动应用软件未来发展](https://wanliming.notion.site/745d9db2b3924b0c85c7876026a2e5da)
 
 ## 2. 管理认知
 - [谈谈原则](https://wanliming.notion.site/6764d75ab65f4436bba6959dceee55dd)
