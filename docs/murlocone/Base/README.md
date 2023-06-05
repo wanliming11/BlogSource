@@ -604,6 +604,7 @@
 - [剑指 Offer II 042. 最近请求次数](https://wanliming.notion.site/Offer-II-042-530a951285b8407fb9b03e11c6e6a18d)
 ### 2.7 设计栈
 - [225. 用队列实现栈](https://www.notion.so/wanliming/225-355a871763c746c69ef207505b854209)
+- [面试题 03.04. 化栈为队](https://wanliming.notion.site/03-04-c17a35718d3e475fb7e67dcd95d18a1f?pvs=4)
 
 ## 3. 效率
 ### 3.1 绩效计算脚本
