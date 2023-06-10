@@ -13,6 +13,7 @@
 - [643. 子数组最大平均数 I](https://wanliming.notion.site/643-I-901c8cc0c8e5461aaa7720af4c808663)
 
 ### 1.3 字符串
+- [2716. 最小化字符串长度](https://www.notion.so/wanliming/2716-fefb40d0ab114e1ba132abc5dcbb3077?pvs=4)
 - [2710. 移除字符串中的尾随零](https://wanliming.notion.site/2710-d0b29d95eda54725aecd52fd86ad04c5?pvs=4)
 - [1592. 重新排列单词间的空格](https://wanliming.notion.site/1592-3e2a3a36c0fb4f0fae2a9cc83056c4c6?pvs=4)
 - [1941. 检查是否所有字符出现次数相同](https://wanliming.notion.site/1941-8a36ab1ec165487d975e1c72952002f5)
