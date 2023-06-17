@@ -186,6 +186,7 @@
 - [206. 反转链表](https://wanliming.notion.site/206-0b3278d724b842fda13c344b1f9c727c)
 
 ### 1.6 数组
+- [1275. 找出井字棋的获胜者](https://wanliming.notion.site/1275-8fd4b4d615d948c694bf31f796ebc58f?pvs=4)
 - [1356. 根据数字二进制下 1 的数目排序](https://wanliming.notion.site/1356-1-a0df1c402ecd49c8823b2c7e101dfcf9?pvs=4)
 - [2717. 半有序排列](https://wanliming.notion.site/2717-6e597a7233254cd8aacc358f608c9357?pvs=4)
 - [剑指 Offer II 075. 数组相对排序](https://wanliming.notion.site/Offer-II-075-55b1cdcbf7f94cf5b41a5ae86869f1f4?pvs=4)
