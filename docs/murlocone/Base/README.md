@@ -13,6 +13,7 @@
 - [643. 子数组最大平均数 I](https://wanliming.notion.site/643-I-901c8cc0c8e5461aaa7720af4c808663)
 
 ### 1.3 字符串
+- [2729. 判断一个数是否迷人](https://wanliming.notion.site/2729-1f2e2be6692f4f4882a8170d937b054a?pvs=4)
 - [1763. 最长的美好子字符串](https://wanliming.notion.site/1763-5a44c9c745594ce2805274e937efc471?pvs=4)
 - [2716. 最小化字符串长度](https://www.notion.so/wanliming/2716-fefb40d0ab114e1ba132abc5dcbb3077?pvs=4)
 - [2710. 移除字符串中的尾随零](https://wanliming.notion.site/2710-d0b29d95eda54725aecd52fd86ad04c5?pvs=4)
