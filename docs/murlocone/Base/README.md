@@ -13,6 +13,7 @@
 - [643. 子数组最大平均数 I](https://wanliming.notion.site/643-I-901c8cc0c8e5461aaa7720af4c808663)
 
 ### 1.3 字符串
+- [2697. 字典序最小回文串](https://wanliming.notion.site/2697-cc0739b504c9446f85f1335c53b4bf9e?pvs=4)
 - [2108. 找出数组中的第一个回文字符串](https://wanliming.notion.site/2108-08001222a9084bb49542d183b063828f?pvs=4)
 - [2678. 老人的数目](https://www.notion.so/wanliming/2678-37b16a10aeed493e9da89ed0d1b16855?pvs=4)
 - [2729. 判断一个数是否迷人](https://wanliming.notion.site/2729-1f2e2be6692f4f4882a8170d937b054a?pvs=4)
