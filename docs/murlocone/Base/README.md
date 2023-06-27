@@ -433,6 +433,7 @@
 - [1414. 和为 K 的最少斐波那契数字数目](https://wanliming.notion.site/1414-K-207a00b6635c4e66a36b3dab28024bcf)
 
 ### 【数学】
+- [1518. 换水问题](https://wanliming.notion.site/1518-3d8869cddd5148aa99a6f30c20be2b35?pvs=4)
 - [1688. 比赛中的配对次数](https://wanliming.notion.site/1688-d7ca2ad3305a420dbec558e74fe9821a?pvs=4)
 - [2651. 计算列车到站时间](https://wanliming.notion.site/2651-b0f10863d8924408a579978c862bd33f?pvs=4)
 - [1217. 玩筹码](https://wanliming.notion.site/1217-2d4ff494bee3402e886733c99f75fca0?pvs=4)
