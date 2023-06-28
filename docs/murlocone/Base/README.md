@@ -191,6 +191,7 @@
 - [206. 反转链表](https://wanliming.notion.site/206-0b3278d724b842fda13c344b1f9c727c)
 
 ### 1.6 数组
+- [1491. 去掉最低工资和最高工资后的工资平均值](https://wanliming.notion.site/1491-45ef3c8bb9be4c919c9672500569ca79?pvs=4)
 - [412. Fizz Buzz](https://wanliming.notion.site/412-Fizz-Buzz-6486d2af32274718a7388ee49aef6744?pvs=4)
 - [1394. 找出数组中的幸运数](https://wanliming.notion.site/1394-eaaf7e2b586941dda0fce92bebd730ff?pvs=4)
 - [1275. 找出井字棋的获胜者](https://wanliming.notion.site/1275-8fd4b4d615d948c694bf31f796ebc58f?pvs=4)
