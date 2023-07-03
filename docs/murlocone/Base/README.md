@@ -192,6 +192,7 @@
 - [206. 反转链表](https://wanliming.notion.site/206-0b3278d724b842fda13c344b1f9c727c)
 
 ### 1.6 数组
+- [2706. 购买两块巧克力](https://wanliming.notion.site/2706-ffea1a84cee1489a93861295526b06d2?pvs=4)
 - [LCP 55. 采集果实](https://wanliming.notion.site/LCP-55-7e99b44fb3a848678aee3f07be84d809?pvs=4)
 - [1491. 去掉最低工资和最高工资后的工资平均值](https://wanliming.notion.site/1491-45ef3c8bb9be4c919c9672500569ca79?pvs=4)
 - [412. Fizz Buzz](https://wanliming.notion.site/412-Fizz-Buzz-6486d2af32274718a7388ee49aef6744?pvs=4)
