@@ -439,6 +439,7 @@
 - [1414. 和为 K 的最少斐波那契数字数目](https://wanliming.notion.site/1414-K-207a00b6635c4e66a36b3dab28024bcf)
 
 ### 【数学】
+- [LCP 77. 符文储备](https://wanliming.notion.site/LCP-77-3df222de95a84780b99dbf6bbe6f2df5?pvs=4)
 - [1863. 找出所有子集的异或总和再求和](https://wanliming.notion.site/1863-0380542aaf454e06bda9e4a4b6f2fa86?pvs=4)
 - [1518. 换水问题](https://wanliming.notion.site/1518-3d8869cddd5148aa99a6f30c20be2b35?pvs=4)
 - [1688. 比赛中的配对次数](https://wanliming.notion.site/1688-d7ca2ad3305a420dbec558e74fe9821a?pvs=4)
