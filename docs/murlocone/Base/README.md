@@ -13,6 +13,7 @@
 - [643. 子数组最大平均数 I](https://wanliming.notion.site/643-I-901c8cc0c8e5461aaa7720af4c808663)
 
 ### 1.3 字符串
+- [LCP 66. 最小展台数量](https://wanliming.notion.site/LCP-66-73d564b4f5174479bcdda3389a1360c9?pvs=4)
 - [2744. 最大字符串配对数目](https://wanliming.notion.site/2744-ec5008322c3d41f18c1d25d556646688?pvs=4)
 - [1935. 可以输入的最大单词数](https://www.notion.so/wanliming/1935-0fb148e7781e4d4590b58531bbb1949a?pvs=4)
 - [1844. 将所有数字用字符替换](https://wanliming.notion.site/1844-5884f96bdd6f4e3cbdc1c6abc8c44509?pvs=4)
