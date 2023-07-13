@@ -13,6 +13,7 @@
 - [643. 子数组最大平均数 I](https://wanliming.notion.site/643-I-901c8cc0c8e5461aaa7720af4c808663)
 
 ### 1.3 字符串
+- [406. 根据身高重建队列](https://wanliming.notion.site/406-a2073ffc533d47a3b49338d000e838af?pvs=4)
 - [451. 根据字符出现频率排序](https://wanliming.notion.site/451-ae2e9ba28019488eacc0f159e615a1ed?pvs=4)
 - [36. 有效的数独](https://wanliming.notion.site/36-7d2a0415cefb4e3b806daa7b423c61a2?pvs=4)
 - [LCP 66. 最小展台数量](https://wanliming.notion.site/LCP-66-73d564b4f5174479bcdda3389a1360c9?pvs=4)
