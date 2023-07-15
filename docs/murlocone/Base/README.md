@@ -588,6 +588,8 @@
 - [剑指 Offer II 056. 二叉搜索树中两个节点之和](https://wanliming.notion.site/Offer-II-056-43b1af61a0504cd789c5fff4a29a7066)
 - [2331. 计算布尔二叉树的值](https://wanliming.notion.site/2331-78de7f5eae4c4daaa0fee72587939c92)
 
+- [979. 在二叉树中分配硬币](https://wanliming.notion.site/979-213508a4c9214ae09d208c2bad4ecc25?pvs=4)
+
 ### 1.14 链表
 
 ### 1.15 数据库
