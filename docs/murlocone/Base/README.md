@@ -198,6 +198,7 @@
 - [206. 反转链表](https://wanliming.notion.site/206-0b3278d724b842fda13c344b1f9c727c)
 
 ### 1.6 数组
+- [447. 回旋镖的数量](https://wanliming.notion.site/447-243fd90bef504864bcb4b3222399cb55?pvs=4)
 - [556. 下一个更大元素 III](https://wanliming.notion.site/556-III-cd31283a5a2e4de6a016adebd632e263?pvs=4)
 - [503. 下一个更大元素 II](https://wanliming.notion.site/503-II-36436c825b5a4e92881e81b911d68a12?pvs=4)
 - [2733. 既不是最小值也不是最大值](https://wanliming.notion.site/2733-3c363eb04a2746bab1cafa8e758c49fb?pvs=4)
