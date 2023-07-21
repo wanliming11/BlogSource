@@ -13,6 +13,7 @@
 - [643. 子数组最大平均数 I](https://wanliming.notion.site/643-I-901c8cc0c8e5461aaa7720af4c808663)
 
 ### 1.3 字符串
+- [1876. 长度为三且各字符不同的子字符串](https://wanliming.notion.site/1876-957b30b8444f41f4b97f09cbb252d067?pvs=4)
 - [1869. 哪种连续子字符串更长](https://wanliming.notion.site/1869-bd2a8cf042354abca6ae14b6e88ababb?pvs=4)
 - [406. 根据身高重建队列](https://wanliming.notion.site/406-a2073ffc533d47a3b49338d000e838af?pvs=4)
 - [451. 根据字符出现频率排序](https://wanliming.notion.site/451-ae2e9ba28019488eacc0f159e615a1ed?pvs=4)
