@@ -202,6 +202,7 @@
 - [206. 反转链表](https://wanliming.notion.site/206-0b3278d724b842fda13c344b1f9c727c)
 
 ### 1.6 数组
+- [2740. 找出分区值](https://wanliming.notion.site/2740-58ad7b094c8e4038b6904733ce11932d?pvs=4)
 - [462. 最小操作次数使数组元素相等 II](https://wanliming.notion.site/462-II-5a8ee53c93f74834b378ae8b96cdbb50?pvs=4)
 - [45. 跳跃游戏 II](https://wanliming.notion.site/45-II-b7dd91fe062641eaa41b130b74b446a6?pvs=4)
 - [447. 回旋镖的数量](https://wanliming.notion.site/447-243fd90bef504864bcb4b3222399cb55?pvs=4)
