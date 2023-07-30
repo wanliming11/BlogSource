@@ -13,6 +13,7 @@
 - [643. 子数组最大平均数 I](https://wanliming.notion.site/643-I-901c8cc0c8e5461aaa7720af4c808663)
 
 ### 1.3 字符串
+- [6918. 包含三个字符串的最短字符串](https://wanliming.notion.site/6918-fd23e730a3d54c4986628d2732aaba37?pvs=4)
 - [面试题 17.11. 单词距离](https://wanliming.notion.site/17-11-10d1b4dabe344747951aeb618a196774?pvs=4)
 - [2085. 统计出现过一次的公共字符串](https://wanliming.notion.site/2085-454f80583cdf494982a6088d934774b8?pvs=4)
 - [241. 为运算表达式设计优先级](https://wanliming.notion.site/241-491f2aee84634aefb05d0fc974e845e0?pvs=4)
