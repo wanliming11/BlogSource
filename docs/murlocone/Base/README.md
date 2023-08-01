@@ -657,6 +657,7 @@
 ### 2.7 设计栈
 - [225. 用队列实现栈](https://www.notion.so/wanliming/225-355a871763c746c69ef207505b854209)
 - [面试题 03.04. 化栈为队](https://wanliming.notion.site/03-04-c17a35718d3e475fb7e67dcd95d18a1f?pvs=4)
+- [面试题 16.02. 单词频率](https://wanliming.notion.site/16-02-d991f8991b0d45ca977dba8f982160d0?pvs=4)
 
 ## 3. 效率
 ### 3.1 绩效计算脚本
