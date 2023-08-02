@@ -7,6 +7,7 @@
 
 
 ### 1.2 滑动窗口
+- [2760. 最长奇偶子数组](https://wanliming.notion.site/2760-5ed5f6f12b6e42bb82bbb339bc6e2acd?pvs=4)
 - [2379. 得到 K 个黑块的最少涂色次数](https://wanliming.notion.site/2379-K-8b22de883be04ca8b75b8edf9e832347)
 - [字符串数据排列](https://www.notion.so/wanliming/567-07e476f882574bf099d2019d3e833107)
 - [11. 盛最多水的容器](https://www.notion.so/wanliming/LeetCode-11-63a691b8288c43b3b330da57de697e02)
