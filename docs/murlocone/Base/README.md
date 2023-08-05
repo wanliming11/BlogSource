@@ -637,6 +637,7 @@
 ### 1.18 
 - [401. 二进制手表](https://wanliming.notion.site/401-b569701ec9c949ec8e5e084fe7cb0d82)
 - [842. 将数组拆分成斐波那契序列](https://wanliming.notion.site/842-6f7a80086eaf4790b203ffa3b446f721)
+- [513. 找树左下角的值](https://wanliming.notion.site/513-a75deb3071be4ff8845e1baf0383815d?pvs=4)
 
 ## 2. Design
 ### 2.1 设计字典
