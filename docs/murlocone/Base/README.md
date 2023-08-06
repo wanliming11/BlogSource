@@ -632,6 +632,7 @@
 - [476. 数字的补数](https://wanliming.notion.site/476-1053571595d64315a184604e64cabe28)
 
 ### 1.17 图
+- [LCR 118. 冗余连接](https://wanliming.notion.site/LCR-118-84ddd12d9b0b4765b477b2fd59dd6b01?pvs=4)
 - [1791. 找出星型图的中心节点](https://wanliming.notion.site/1791-010a506ad2ba4f0d8c6efcbcec0f5972)
 
 ### 1.18 
