@@ -206,6 +206,7 @@
 - [206. 反转链表](https://wanliming.notion.site/206-0b3278d724b842fda13c344b1f9c727c)
 
 ### 1.6 数组
+- [6953. 判断是否能拆分数组](https://wanliming.notion.site/6953-204ec25943654ad9ad2b335c01cf6d3a?pvs=4)
 - [LCR 110. 所有可能的路径](https://wanliming.notion.site/LCR-110-c96ee72469b44025b8b6d342dcc64e0a?pvs=4)
 - [2545. 根据第 K 场考试的分数排序](https://wanliming.notion.site/2545-K-99edd553f5a84f8a84a01e95deab834d?pvs=4)
 - [1854. 人口最多的年份](https://wanliming.notion.site/1854-e505a01a0eb6435da520153394e37157?pvs=4)
