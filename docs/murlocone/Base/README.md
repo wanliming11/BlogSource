@@ -206,6 +206,7 @@
 - [206. 反转链表](https://wanliming.notion.site/206-0b3278d724b842fda13c344b1f9c727c)
 
 ### 1.6 数组
+- [面试题 17.22. 单词转换](https://wanliming.notion.site/17-22-dee2458724df45f0926e30a5a9d5b06e?pvs=4)
 - [6953. 判断是否能拆分数组](https://wanliming.notion.site/6953-204ec25943654ad9ad2b335c01cf6d3a?pvs=4)
 - [LCR 110. 所有可能的路径](https://wanliming.notion.site/LCR-110-c96ee72469b44025b8b6d342dcc64e0a?pvs=4)
 - [2545. 根据第 K 场考试的分数排序](https://wanliming.notion.site/2545-K-99edd553f5a84f8a84a01e95deab834d?pvs=4)
