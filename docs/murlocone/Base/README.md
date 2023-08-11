@@ -14,6 +14,7 @@
 - [643. 子数组最大平均数 I](https://wanliming.notion.site/643-I-901c8cc0c8e5461aaa7720af4c808663)
 
 ### 1.3 字符串
+- [面试题 16.20. T9 LCCI](https://wanliming.notion.site/16-20-T9-LCCI-189dfcd32d524392a8d5f7a83625d4c3?pvs=4)
 - [剑指 Offer 58 - II. 左旋转字符串 LCOF](https://wanliming.notion.site/Offer-58-II-LCOF-853ff5eded6d4c3dad009d4fd14d562e?pvs=4)
 - [2696. 删除子串后的字符串最小长度](https://wanliming.notion.site/2696-4042bba045cc4326acef794b88b9e81e?pvs=4)
 - [6918. 包含三个字符串的最短字符串](https://wanliming.notion.site/6918-fd23e730a3d54c4986628d2732aaba37?pvs=4)
