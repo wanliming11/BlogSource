@@ -14,6 +14,7 @@
 - [643. 子数组最大平均数 I](https://wanliming.notion.site/643-I-901c8cc0c8e5461aaa7720af4c808663)
 
 ### 1.3 字符串
+- [面试题 16.15. 珠玑妙算](https://wanliming.notion.site/16-15-464a8da999c549d0b0149a53c22aa4fb?pvs=4)
 - [面试题 08.09. Bracket LCCI](https://wanliming.notion.site/08-09-Bracket-LCCI-bc621c318a3f41258bf5ff5ef469fb12?pvs=4)
 - [面试题 08.07. Permutation I LCCI](https://wanliming.notion.site/08-07-Permutation-I-LCCI-c106abaa490b484eb9570a7803b93866?pvs=4)
 - [面试题 16.20. T9 LCCI](https://wanliming.notion.site/16-20-T9-LCCI-189dfcd32d524392a8d5f7a83625d4c3?pvs=4)
