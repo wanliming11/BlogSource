@@ -601,6 +601,7 @@
 
 ### 1.13 树
 #### 树的基础操作
+- [LCR 045. 找树左下角的值](https://wanliming.notion.site/LCR-045-ee4aac76959d4ab6ab3bc7efc1ab2c65?pvs=4)
 - [1022. 从根到叶的二进制数之和](https://wanliming.notion.site/1022-cb0a65405cf445a0863c1c0d9bbb7b31)
 - [109. 有序链表转换二叉搜索树](https://wanliming.notion.site/109-baa5e4c76c7e4a34bb2ed99e7277b4d9)
 - [965. 单值二叉树](https://wanliming.notion.site/965-3a9ced996d6f4334bff44c7e4241ab44)
