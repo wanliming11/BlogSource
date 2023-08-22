@@ -211,6 +211,7 @@
 - [206. 反转链表](https://wanliming.notion.site/206-0b3278d724b842fda13c344b1f9c727c)
 
 ### 1.6 数组
+- [LCR 099. 最小路径和](https://wanliming.notion.site/LCR-099-b2a8a375a07b4703ab5f7c374d6a3c09?pvs=4)
 - [2679. Sum in a Matrix](https://wanliming.notion.site/2679-Sum-in-a-Matrix-95f25015cee74eccac7f4e53dac2d187?pvs=4)
 - [面试题 17.22. 单词转换](https://wanliming.notion.site/17-22-dee2458724df45f0926e30a5a9d5b06e?pvs=4)
 - [6953. 判断是否能拆分数组](https://wanliming.notion.site/6953-204ec25943654ad9ad2b335c01cf6d3a?pvs=4)
